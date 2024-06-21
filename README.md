@@ -1,6 +1,5 @@
 # Zenn CLI
-
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+Zenn連携用リポジトリ
 
 👇  新しい記事を作成する
 
