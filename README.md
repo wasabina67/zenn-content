@@ -18,3 +18,9 @@ npx zenn new:book
 ```bash
 npx zenn preview
 ```
+
+#### 👇  記事のカウント
+
+```bash
+bash count_articles.sh
+```
