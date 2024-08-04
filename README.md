@@ -24,3 +24,9 @@ npx zenn preview
 ```bash
 bash count_articles.sh
 ```
+
+## 記事の集計
+
+- Published:
+- Unpublished:
+- Total:
