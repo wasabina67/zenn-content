@@ -27,6 +27,6 @@ npx zenn preview
 bash count_articles.sh
 ```
 
-- Published:
-- Unpublished:
-- Total:
+- Published: 0
+- Unpublished: 0
+- Total: 0
