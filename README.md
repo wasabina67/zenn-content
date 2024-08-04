@@ -19,13 +19,13 @@ npx zenn new:book
 npx zenn preview
 ```
 
+## 記事の集計
+
 #### 👇  記事のカウント
 
 ```bash
 bash count_articles.sh
 ```
-
-## 記事の集計
 
 - Published:
 - Unpublished:
