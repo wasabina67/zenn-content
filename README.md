@@ -28,5 +28,5 @@ bash count_articles.sh
 ```
 
 - Published: 1
-- Unpublished: 0
-- Total: 1
+- Unpublished: 1
+- Total: 2
