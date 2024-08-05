@@ -4,6 +4,7 @@ emoji: "🌊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["github", "githubpages"]
 published: true
+published_at: 2024-08-04
 ---
 
 # はじめに
