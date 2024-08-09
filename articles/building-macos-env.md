@@ -7,6 +7,11 @@ published: true
 published_at: 2024-08-05
 ---
 
+# はじめに
+
+AppleMusicのMP3インポートくらいでしか使っていなかったMacBookを初期化しました。
+chrome/vscode/gitなどを最低限？セットアップし、リポジトリのcloneまでやった時の手順をメモしておきます。
+
 # Command Line Tools
 
 ```zsh
