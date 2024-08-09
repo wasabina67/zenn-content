@@ -37,6 +37,14 @@ git archive --format=tar.gz -o your_repository.tar.gz your_commit_hash
 
 ## 展開
 
+```bash
+cd /path/to/destination
+```
+
+```bash
+tar -xzf your_repository.tar.gz
+```
+
 # tar
 
 :::message
