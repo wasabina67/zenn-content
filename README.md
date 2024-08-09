@@ -31,6 +31,9 @@ pre-commit install
 bash count_articles.sh
 ```
 
+```bash
+```
+
 - Published: 3
 - Unpublished: 1
 - Total: 4
