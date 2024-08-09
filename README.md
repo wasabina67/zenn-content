@@ -23,7 +23,7 @@ npx zenn preview
 
 - Total: 4
   - Published: 3
-  - Unpublished: 1
+  - Unpublished: 0
 
 #### 👇  記事のカウント
 
