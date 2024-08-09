@@ -21,18 +21,18 @@ npx zenn preview
 
 ## 記事の集計
 
+- Published: 3
+- Unpublished: 1
+- Total: 4
+
 #### 👇  記事のカウント
 
 ```bash
 bash count_articles.sh
 ```
 
-#### pre-commit
+#### 👇  pre-commit
 
 ```bash
 pre-commit install
 ```
-
-- Published: 3
-- Unpublished: 1
-- Total: 4
