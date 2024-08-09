@@ -21,10 +21,6 @@ npx zenn preview
 
 ## 記事の集計
 
-```bash
-pre-commit install
-```
-
 #### 👇  記事のカウント
 
 ```bash
@@ -32,6 +28,7 @@ bash count_articles.sh
 ```
 
 ```bash
+pre-commit install
 ```
 
 - Published: 3
