@@ -1,7 +1,7 @@
 ---
 title: "Windows11環境構築について"
 emoji: "🪟"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["windows11"]
 published: false
 # published_at: 2099-08-03
