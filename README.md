@@ -27,6 +27,8 @@ npx zenn preview
 bash count_articles.sh
 ```
 
+#### pre-commit
+
 ```bash
 pre-commit install
 ```
