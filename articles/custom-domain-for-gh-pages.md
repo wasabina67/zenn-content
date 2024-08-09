@@ -1,7 +1,7 @@
 ---
 title: "GitHub Pagesでカスタムドメインを設定する"
 emoji: "🌊"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["githubpages"]
 published: true
 published_at: 2024-08-03
