@@ -15,7 +15,7 @@ published: false
 
 ## 圧縮
 
-※ リポジトリのトップディレクトリから実行
+※ リポジトリのルートディレクトリから実行
 
 - HEADを指定
 
@@ -53,7 +53,7 @@ tar -xzf your_repository.tar.gz
 
 ## 圧縮
 
-※ リポジトリのトップディレクトリから実行
+※ リポジトリのルートディレクトリから実行
 
 ```bash
 tar -czf your_repository.tar.gz .
