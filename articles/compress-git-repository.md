@@ -55,4 +55,8 @@ tar -xzf your_repository.tar.gz
 
 ※ リポジトリのトップディレクトリから実行
 
+```bash
+tar -czf your_repository.tar.gz .
+```
+
 ## 展開
