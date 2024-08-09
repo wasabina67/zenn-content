@@ -3,8 +3,8 @@ title: "Gitリポジトリを圧縮する"
 emoji: "😺"
 type: "tech"
 topics: ["git"]
-published: false
-# published_at: 2099-08-03
+published: true
+published_at: 2024-08-10
 ---
 
 # git-archive
