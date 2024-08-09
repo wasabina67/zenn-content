@@ -34,5 +34,13 @@ bash count_articles.sh
 #### 👇  pre-commit
 
 ```bash
+pipenv shell
+```
+
+```bash
+pipenv install
+```
+
+```bash
 pre-commit install
 ```
