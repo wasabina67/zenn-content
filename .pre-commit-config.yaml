@@ -3,6 +3,6 @@ repos:
     hooks:
       - id: count-articles
         name: Count Articles
-        entry: bash count_articles.sh
+        entry: /usr/bin/bash count_articles.sh
         language: script
         files: \.md$
