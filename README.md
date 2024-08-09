@@ -21,6 +21,10 @@ npx zenn preview
 
 ## 記事の集計
 
+```bash
+pre-commit install
+```
+
 #### 👇  記事のカウント
 
 ```bash
