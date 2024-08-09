@@ -59,4 +59,10 @@ tar -xzf your_repository.tar.gz
 tar -czf your_repository.tar.gz .
 ```
 
+※ リポジトリの一つ上の階層から実行
+
+```bash
+tar -czf your_repository.tar.gz your_repository_dir
+```
+
 ## 展開
