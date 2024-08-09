@@ -7,3 +7,7 @@ TOTAL=$((PUB + UNPUB))
 sed -i "s/^- Published:.*/- Published: ${PUB}/" README.md
 sed -i "s/^- Unpublished:.*/- Unpublished: ${UNPUB}/" README.md
 sed -i "s/^- Total:.*/- Total: ${TOTAL}/" README.md
+
+if ! git diff --quiet README.md; then
+    git add README.md
+fi
