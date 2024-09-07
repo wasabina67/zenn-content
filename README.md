@@ -38,7 +38,7 @@ pipenv shell
 ```
 
 ```bash
-pipenv install
+pipenv sync
 ```
 
 ```bash
