@@ -32,3 +32,5 @@ published: false
 - `設定 > アカウント > サインインオプション`から`サインイン画面に電子メールアドレスなどのアカウントの詳細を表示します。`を有効化
 
 # Google Chrome
+
+https://www.google.com/intl/ja_jp/chrome/
