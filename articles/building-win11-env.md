@@ -41,6 +41,10 @@ https://learn.microsoft.com/ja-jp/windows/wsl/install
 
 https://learn.microsoft.com/ja-jp/windows/wsl/tutorials/linux
 
+https://zenn.dev/wasabina67/scraps/206d3183daf216
+
+https://zenn.dev/wasabina67/scraps/1d368f2f9b9487
+
 # VSCode
 
 https://code.visualstudio.com/download
