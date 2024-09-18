@@ -38,3 +38,7 @@ https://www.google.com/intl/ja_jp/chrome/
 # WSL
 
 https://learn.microsoft.com/ja-jp/windows/wsl/install
+
+https://learn.microsoft.com/ja-jp/windows/wsl/tutorials/linux
+
+# VSCode
