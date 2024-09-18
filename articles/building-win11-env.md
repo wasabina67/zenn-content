@@ -47,6 +47,18 @@ https://code.visualstudio.com/download
 
 # GitHub
 
+```bash
+ssh -T git@github.com
+```
+
+https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
+
+https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
 # Docker Desktop
 
+https://docs.docker.jp/desktop/windows/wsl.html
+
 # HeidiSQL
+
+https://www.heidisql.com/
