@@ -42,3 +42,11 @@ https://learn.microsoft.com/ja-jp/windows/wsl/install
 https://learn.microsoft.com/ja-jp/windows/wsl/tutorials/linux
 
 # VSCode
+
+https://code.visualstudio.com/download
+
+# GitHub
+
+# Docker Desktop
+
+# HeidiSQL
