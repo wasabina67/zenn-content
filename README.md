@@ -25,13 +25,13 @@ npx zenn preview
   - Published: 4
   - Unpublished: 0
 
-#### 👇  記事のカウント
+#### 👇  記事をカウントする
 
 ```bash
 bash count_articles.sh
 ```
 
-#### 👇  pre-commit
+#### 👇  pre-commit の設定
 
 ```bash
 pipenv shell
