@@ -15,7 +15,7 @@ GitHub Pagesでカスタムドメインを設定する手順をメモしてお�
 
 `Custom domain` に取得したドメインを入力して Save します。
 
-![](https://github.com/user-attachments/assets/31218dd0-093c-40d9-a0df-46a2a05e591e)
+![](/images/custom-domain-for-gh-pages/31218dd0-093c-40d9-a0df-46a2a05e591e)
 
 # カスタムドメインの検証
 
@@ -61,10 +61,10 @@ https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pag
 
 今回使用したムームードメインでは、以下のような見え方になりました。
 
-![](https://github.com/user-attachments/assets/4494227e-6d01-4eb2-bdc2-aeb5143f4b5f)
+![](/images/custom-domain-for-gh-pages/4494227e-6d01-4eb2-bdc2-aeb5143f4b5f)
 
 # Custom domainの設定 ②
 
 ①で設定した `Custom domain` で、 `✔ DNS check successful` と表示されることを確認します。
 
-![](https://github.com/user-attachments/assets/de076050-e573-4a67-bd8d-49ef5e05a6a3)
+![](/images/custom-domain-for-gh-pages/de076050-e573-4a67-bd8d-49ef5e05a6a3)
