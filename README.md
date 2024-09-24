@@ -31,7 +31,7 @@ npx zenn preview
 bash count_articles.sh
 ```
 
-#### 👇  pre-commit の設定
+#### 👇  pre-commit を設定する
 
 ```bash
 pipenv shell
