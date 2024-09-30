@@ -12,9 +12,11 @@ published_at: 2024-09-28
 ## イメージを取得
 
 ```bash
+docker pull hello-world:latest
 ```
 
 ```bash
+docker pull python:3.10-slim
 ```
 
 # Dockerコンテナ
