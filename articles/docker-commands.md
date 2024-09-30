@@ -46,6 +46,11 @@ FROM hello-world:latest
 docker build -t wasabina67/hello-world:0.1 .
 ```
 
+```bash
+# タグ付けして差分ビルド
+docker build -t wasabina67/hello-world:0.2 .
+```
+
 ## イメージをプッシュ
 
 ```bash
