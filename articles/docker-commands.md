@@ -25,4 +25,14 @@ docker pull python:3.10-slim
 docker images
 ```
 
+## イメージを削除
+
+```bash
+docker rmi hello-world:latest
+```
+
+```bash
+docker rmi python:3.10-slim
+```
+
 # Dockerコンテナ
