@@ -93,6 +93,27 @@ docker stop mypython
 docker start mypython
 ```
 
+## 実行中のコンテナに対してコマンドを実行
+
+```bash
+docker exec -it mypython /bin/bash
+```
+
+## コンテナにアタッチ
+
+```bash
+```
+
+## コンテナを再起動
+
+```bash
+```
+
+## コンテナを削除
+
+```bash
+```
+
 # その他
 
 ```bash
