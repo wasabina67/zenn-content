@@ -35,4 +35,8 @@ docker rmi hello-world:latest
 docker rmi python:3.10-slim
 ```
 
+## イメージをビルド
+
+## イメージをプッシュ
+
 # Dockerコンテナ
