@@ -19,4 +19,10 @@ docker pull hello-world:latest
 docker pull python:3.10-slim
 ```
 
+## イメージ一覧を表示
+
+```bash
+docker images
+```
+
 # Dockerコンテナ
