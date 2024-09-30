@@ -4,7 +4,7 @@ emoji: "🐋"
 type: "tech"
 topics: ["docker"]
 published: true
-published_at: 2024-10-02
+published_at: 2024-09-30
 ---
 
 # Dockerイメージ
