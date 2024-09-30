@@ -69,6 +69,18 @@ docker run hello-world:latest
 docker run -it --name mypython python:3.10-slim /bin/bash
 ```
 
+## 全てのコンテナの一覧を表示
+
+```bash
+docker ps -a
+```
+
+## 実行中のコンテナの一覧を表示
+
+```bash
+docker ps
+```
+
 # その他
 
 ```bash
