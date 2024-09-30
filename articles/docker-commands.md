@@ -102,16 +102,19 @@ docker exec -it mypython /bin/bash
 ## コンテナにアタッチ
 
 ```bash
+docker attach mypython
 ```
 
 ## コンテナを再起動
 
 ```bash
+docker restart mypython
 ```
 
 ## コンテナを削除
 
 ```bash
+docker rm mypython
 ```
 
 # その他
