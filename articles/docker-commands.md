@@ -81,6 +81,18 @@ docker ps -a
 docker ps
 ```
 
+## コンテナを停止
+
+```bash
+docker stop mypython
+```
+
+## コンテナを開始
+
+```bash
+docker start mypython
+```
+
 # その他
 
 ```bash
