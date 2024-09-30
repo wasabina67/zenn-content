@@ -48,4 +48,8 @@ docker build -t wasabina67/hello-world:0.1 .
 
 ## イメージをプッシュ
 
+```bash
+docker push wasabina67/hello-world:0.1
+```
+
 # Dockerコンテナ
