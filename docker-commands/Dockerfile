@@ -1,3 +1,3 @@
 FROM hello-world:latest
 
-CMD echo "Hello, World!"
+CMD ["echo", "Hello, World!"]
