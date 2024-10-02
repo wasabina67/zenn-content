@@ -26,7 +26,7 @@ ssh-add ~/.ssh/id_ed25519
 ```bash
 ```
 
-### 3. ssh-agentプロセスとSSHプライベートキーの追加を確認
+### 2. ssh-agentプロセスとSSHプライベートキーの追加を確認
 
 ```bash
 ps -aef | grep ssh-agent | grep -v grep
