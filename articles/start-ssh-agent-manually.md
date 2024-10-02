@@ -24,6 +24,7 @@ ssh-add ~/.ssh/id_ed25519
 ### 2. ワンライナー
 
 ```bash
+eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_ed25519
 ```
 
 ### 3. ssh-agentプロセスとSSHプライベートキーの追加を確認
