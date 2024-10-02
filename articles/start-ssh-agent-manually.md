@@ -9,16 +9,21 @@ published_at: 2024-10-02
 
 ## 手順
 
-### 1. バックグラウンドでssh-agentを開始
+### 1-1. バックグラウンドでssh-agentを開始
 
 ```bash
 eval "$(ssh-agent -s)"
 ```
 
-### 2. SSHプライベートキーをssh-agentに追加
+### 1-2. SSHプライベートキーをssh-agentに追加
 
 ```bash
 ssh-add ~/.ssh/id_ed25519
+```
+
+### 1-3. ワンライナー
+
+```bash
 ```
 
 ### 3. ssh-agentプロセスとSSHプライベートキーの追加を確認
