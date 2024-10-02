@@ -15,10 +15,16 @@ published_at: 2024-10-02
 eval "$(ssh-agent -s)"
 ```
 
-### 2. SSHプライベートキーをssh-agentに追加・確認
+### 2. SSHプライベートキーをssh-agentに追加
 
 ```bash
 ssh-add ~/.ssh/id_ed25519
+```
+
+### 3. 確認
+
+```bash
+ps -aef | grep ssh-agent | grep -v grep
 ```
 
 ```bash
