@@ -21,12 +21,12 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 ```
 
-### 1-3. ワンライナー
+### 2. ワンライナー
 
 ```bash
 ```
 
-### 2. ssh-agentプロセスとSSHプライベートキーの追加を確認
+### 3. ssh-agentプロセスとSSHプライベートキーの追加を確認
 
 ```bash
 ps -aef | grep ssh-agent | grep -v grep
