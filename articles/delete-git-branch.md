@@ -1,5 +1,5 @@
 ---
-title: "delete-git-branch"
+title: "Gitブランチの削除について"
 emoji: "🌿"
 type: "tech"
 topics: ["git", "branch"]
@@ -27,4 +27,10 @@ git branch -D <branch-name>
 
 ```bash
 git push origin --delete <branch-name>
+```
+
+## リモートで削除されたブランチをローカルの追跡ブランチから削除
+
+```bash
+git fetch --prune
 ```
