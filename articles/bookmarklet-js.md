@@ -8,3 +8,7 @@ published_at: 2024-10-05
 ---
 
 ## サンプルコード
+
+```javascript
+javascript:alert(new Date());void(0);
+```
