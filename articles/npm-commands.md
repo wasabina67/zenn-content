@@ -54,9 +54,19 @@ npm install --global <package-name>
 ## Remove a package
 
 ```bash
+npm un <package-name>
+```
+
+```bash
+npm uninstall <package-name>
 ```
 
 ## List installed packages
 
 ```bash
+npm list
+```
+
+```bash
+npm list -g
 ```
