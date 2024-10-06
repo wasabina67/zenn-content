@@ -35,6 +35,22 @@ npm i <package-name>
 npm install <package-name>
 ```
 
+### Save dev
+
+```bash
+npm install <package-name> --save-dev
+```
+
+### Global
+
+```bash
+npm install -g <package-name>
+```
+
+```bash
+npm install --global <package-name>
+```
+
 ## Remove a package
 
 ```bash
