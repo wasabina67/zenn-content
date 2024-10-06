@@ -67,6 +67,8 @@ npm uninstall <package-name>
 npm list
 ```
 
+### Global
+
 ```bash
 npm list -g
 ```
