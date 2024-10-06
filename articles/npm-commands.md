@@ -7,10 +7,10 @@ published: false
 published_at: 2024-10-05
 ---
 
-## aaa
+## Create a package.json file
 
-## bbb
+## Install a package
 
-## ccc
+## Remove a package
 
-## ddd
+## List installed packages
