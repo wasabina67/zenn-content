@@ -1,6 +1,6 @@
 ---
 title: ".htaccessを使ったHTTPSリダイレクトのサンプルコード"
-emoji: "🔐"
+emoji: "🕸"
 type: "tech"
 topics: ["htaccess"]
 published: true
