@@ -3,8 +3,8 @@ title: ".htaccessを使ったHTTPSリダイレクトのサンプルコード"
 emoji: "🔐"
 type: "tech"
 topics: ["htaccess"]
-published: false
-published_at: 2024-10-05
+published: true
+published_at: 2024-10-06
 ---
 
 ## サンプルコード
