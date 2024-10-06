@@ -1,6 +1,6 @@
 ---
 title: "lambda-usage-example"
-emoji: "📚"
+emoji: "🤖"
 type: "tech"
 topics: ["python"]
 published: false
