@@ -70,3 +70,19 @@ npm list
 ```bash
 npm list -g
 ```
+
+```bash
+npm list -g --depth=0
+```
+
+## View registry info
+
+```bash
+npm info <package-name>
+```
+
+## Run arbitrary package scripts
+
+```bash
+npm run <command>
+```
