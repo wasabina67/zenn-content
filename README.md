@@ -21,9 +21,9 @@ npx zenn preview
 
 ## 記事の集計
 
-- Total: 9
+- Total: 10
   - Published: 9
-  - Unpublished: 0
+  - Unpublished: 1
 
 #### 👇  記事をカウントする
 
