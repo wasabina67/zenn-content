@@ -1,5 +1,5 @@
 ---
-title: "npm-commands"
+title: "npmコマンドについて"
 emoji: "🚀"
 type: "tech"
 topics: ["npm"]
