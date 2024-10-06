@@ -86,3 +86,23 @@ npm info <package-name>
 ```bash
 npm run <command>
 ```
+
+## Update packages
+
+```bash
+npm update
+```
+
+```bash
+npm update <package-name>
+```
+
+### Global
+
+```bash
+npm update -g
+```
+
+```bash
+npm update -g <package-name>
+```
