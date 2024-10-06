@@ -41,4 +41,11 @@ print(doubled)
 ### sorted()
 
 ```python
+students = [
+    {"name": "John", "age": 15},
+    {"name": "Jane", "age": 17},
+    {"name": "Dave", "age": 16},
+]
+sorted_students = sorted(students, key=lambda student: student["age"])
+print(sorted_students)
 ```
