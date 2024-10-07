@@ -21,7 +21,7 @@ npx zenn preview
 
 ## Zenn
 
-[zenn.dev/wasabina67](https://zenn.dev/wasabina67)
+🔗 [zenn.dev/wasabina67](https://zenn.dev/wasabina67)
 
 ## 記事の集計
 
