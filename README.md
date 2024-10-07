@@ -19,9 +19,9 @@ npx zenn new:book
 npx zenn preview
 ```
 
-## aaa
+## Zenn
 
-[zenn.dev/wasabina67](https://zenn.dev/wasabina67)
+- [zenn.dev/wasabina67](https://zenn.dev/wasabina67)
 
 ## 記事の集計
 
