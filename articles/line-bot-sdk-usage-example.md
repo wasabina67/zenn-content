@@ -1,8 +1,8 @@
 ---
-title: ""
-emoji: ""
+title: "LINE Messaging APIのサンプルコード"
+emoji: "💬"
 type: "tech"
-topics: [""]
+topics: ["python", "linebot"]
 published: false
 published_at: 2024-01-01
 ---
