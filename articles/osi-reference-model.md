@@ -1,5 +1,5 @@
 ---
-title: "テストテストテストテスト"
+title: "title"
 emoji: "🌐"
 type: "tech"
 topics: ["osi参照モデル", "tcpip"]
