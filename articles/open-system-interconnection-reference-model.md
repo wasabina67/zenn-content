@@ -13,10 +13,10 @@ published_at: 2024-01-01
 
 ## L5 | セッション層 | Session Layer
 
-## L4
+## L4 | トランスポート層 | Transport Layer
 
-## L3
+## L3 | ネットワーク層 | Network Layer
 
-## L2
+## L2 | データリンク層 | Data-Link Layer
 
-## L1
+## L1 | 物理層 | Physical Layer
