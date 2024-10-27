@@ -1,5 +1,5 @@
 ---
-title: "title"
+title: "OSI参照モデルについて"
 emoji: "🌐"
 type: "tech"
 topics: ["osi参照モデル", "tcpip"]
