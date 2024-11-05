@@ -25,9 +25,8 @@ published_at: 2024-01-01
 
 具体的な通信サービスを提供。
 
-#### 具体例
-
-HTTP、SCP、SMTP
+具体例
+→ HTTP、SCP、SMTP
 
 ### プレゼンテーション層
 
