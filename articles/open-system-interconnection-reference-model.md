@@ -12,7 +12,7 @@ published_at: 2024-01-01
 ## レイヤー構成
 
 | # | 名称 |
-|---|---|---|
+|---|---|
 | L7 | アプリケーション層<br />Application Layer |
 | L6 | プレゼンテーション層<br />Presentation Layer |
 | L5 | セッション層<br />Session Layer |
