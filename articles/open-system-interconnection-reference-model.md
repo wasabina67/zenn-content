@@ -11,7 +11,7 @@ published_at: 2024-01-01
 
 ## レイヤー構成
 
-| レイヤー番号 | 和名 | 英名 |
+| # | 名称 | 名称 |
 |---|---|---|
 | L7 | アプリケーション層 | Application Layer |
 | L6 | プレゼンテーション層 | Presentation Layer |
