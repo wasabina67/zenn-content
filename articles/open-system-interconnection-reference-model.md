@@ -13,13 +13,13 @@ published_at: 2024-01-01
 
 | # | 名称 | 役割 |
 |---|---|---|
-| L7 | アプリケーション層 / Application Layer | アプリケーション固有のデータ規定 |
-| L6 | プレゼンテーション層 / Presentation Layer | データのフォーマット規定・変換 |
-| L5 | セッション層 / Session Layer | コネクションの確率・切断など<br />通信手順の規定・管理 |
-| L4 | トランスポート層 / Transport Layer | ノード間の通信の保証 |
-| L3 | ネットワーク層 / Network Layer | 通信経路の決定<br />異なるネットワークに転送 |
-| L2 | データリンク層 / Data-Link Layer | 直接接続されたノード間の通信の規定 |
-| L1 | 物理層 / Physical Layer | ケーブルなど物理的な仕様規定<br />bit列を電気信号に変換 |
+| L7 | アプリケーション層 / Application Layer | ・アプリケーション固有のデータ規定 |
+| L6 | プレゼンテーション層 / Presentation Layer | ・データのフォーマット規定・変換 |
+| L5 | セッション層 / Session Layer | ・コネクションの確率・切断など<br />・通信手順の規定・管理 |
+| L4 | トランスポート層 / Transport Layer | ・ノード間の通信の保証 |
+| L3 | ネットワーク層 / Network Layer | ・通信経路の決定<br />・異なるネットワークに転送 |
+| L2 | データリンク層 / Data-Link Layer | ・直接接続されたノード間の通信の規定 |
+| L1 | 物理層 / Physical Layer | ・ケーブルなど物理的な仕様規定<br />・bit列を電気信号に変換 |
 
 ## レイヤー詳細
 
