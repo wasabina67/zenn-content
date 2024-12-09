@@ -19,7 +19,7 @@ npx zenn new:book
 npx zenn preview
 ```
 
-## Zenn
+## URL
 
 🔗 [zenn.dev/wasabina67](https://zenn.dev/wasabina67)
 
