@@ -1,8 +1,8 @@
 ---
-title: "title"
+title: "Dockerコンテナで無限待機する"
 emoji: "😴"
 type: "tech"
-topics: ["sleep"]
+topics: ["sleep", "docker", "shell"]
 published: false
 published_at: 2024-01-01
 ---
