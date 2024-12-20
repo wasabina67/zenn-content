@@ -8,3 +8,7 @@ published_at: 2024-01-01
 ---
 
 zzzz
+
+Messaging API
+
+https://developers.line.biz/ja/services/messaging-api/
