@@ -1,5 +1,5 @@
 ---
-title: "lambda関数のサンプルコード"
+title: "Pythonのlambda関数について"
 emoji: "🤖"
 type: "tech"
 topics: ["python"]
