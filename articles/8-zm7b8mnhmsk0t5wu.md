@@ -55,6 +55,22 @@ tar -xzf your_repository.tar.gz
 
 ※ リポジトリのルートディレクトリから実行
 
+```bash
+tar -czf your_repository.tar.gz .
+```
+
 ※ 一つ上の階層から実行
 
+```bash
+tar -czf your_repository.tar.gz your_repository_dir
+```
+
 ### 展開
+
+```bash
+cd /path/to/destination
+```
+
+```bash
+tar -xzf your_repository.tar.gz
+```
