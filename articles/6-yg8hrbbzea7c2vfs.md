@@ -9,16 +9,22 @@ published_at: 2024-10-04
 
 ## ローカルブランチの削除
 
-- ブランチがマージされている場合にのみ削除を許可
+- ブランチがマージされている場合にのみ削除
 
 ```bash
 git branch -d your-branch-name
 ```
 
-- 強制的に削除を許可
+- 強制的に削除
 
 ```bash
 git branch -D your-branch-name
+```
+
+- hoge
+
+```bash
+git fetch --prune
 ```
 
 ## リモートブランチの削除
