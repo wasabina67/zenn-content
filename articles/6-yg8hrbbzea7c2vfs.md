@@ -21,10 +21,10 @@ git branch -d your-branch-name
 git branch -D your-branch-name
 ```
 
-- hoge
+- リモートリポジトリで削除されたブランチをローカルの追跡ブランチから削除
 
 ```bash
-git fetch --prune
+git fetch -p
 ```
 
 ## リモートブランチの削除
