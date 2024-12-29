@@ -7,4 +7,4 @@ published: true
 published_at: 2024-10-07
 ---
 
-zzzz
+## Create a package.json file
