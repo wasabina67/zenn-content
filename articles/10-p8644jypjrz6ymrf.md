@@ -1,10 +1,10 @@
 ---
-title: ""
-emoji: ""
+title: "npmコマンドについて"
+emoji: "🚀"
 type: "tech"
-topics: [""]
-published: false
-published_at: 2024-01-01
+topics: ["npm"]
+published: true
+published_at: 2024-10-07
 ---
 
 zzzz
