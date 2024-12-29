@@ -9,7 +9,7 @@ published_at: 2024-10-04
 
 ## ローカルブランチの削除
 
-- ブランチがマージされている場合にのみ削除
+- 対象のブランチ(`your-branch-name`)が現在のブランチにマージされている場合にのみ削除
 
 ```bash
 git branch -d your-branch-name
