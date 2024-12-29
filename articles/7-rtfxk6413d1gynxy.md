@@ -42,3 +42,5 @@ ssh-add -l
 ```
 
 ## 参考
+
+https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux#adding-your-ssh-key-to-the-ssh-agent
