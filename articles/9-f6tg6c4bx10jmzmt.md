@@ -12,3 +12,11 @@ published_at: 2024-09-30
 ## Dockerコンテナ
 
 ## その他
+
+```bash
+docker info
+```
+
+```bash
+docker version
+```
