@@ -80,6 +80,54 @@ docker run hello-world:latest
 docker run -it --name mypython python:3.10-slim /bin/bash
 ```
 
+### 全てのコンテナの一覧を表示
+
+```bash
+docker ps -a
+```
+
+### 実行中のコンテナの一覧を表示
+
+```bash
+docker ps
+```
+
+### コンテナを停止
+
+```bash
+docker stop mypython
+```
+
+### コンテナを開始
+
+```bash
+docker start mypython
+```
+
+### 実行中のコンテナに対してコマンドを実行
+
+```bash
+docker exec -it mypython /bin/bash
+```
+
+### コンテナにアタッチ
+
+```bash
+docker attach mypython
+```
+
+### コンテナを再起動
+
+```bash
+docker restart mypython
+```
+
+### コンテナを削除
+
+```bash
+docker rm mypython
+```
+
 ## その他
 
 ```bash
