@@ -7,4 +7,22 @@ published: true
 published_at: 2024-10-04
 ---
 
-zzzz
+## ローカルブランチの削除
+
+- ブランチがマージされている場合にのみ削除を許可
+
+```bash
+git branch -d your-branch-name
+```
+
+- 強制的に削除を許可
+
+```bash
+git branch -D your-branch-name
+```
+
+## リモートブランチの削除
+
+```bash
+git push origin --delete your-branch-name
+```
