@@ -19,6 +19,13 @@ print(add(3, 5))
 ### sorted
 
 ```python
+students = [
+    {"name": "John", "age": 15},
+    {"name": "Jane", "age": 17},
+    {"name": "Dave", "age": 16},
+]
+sorted_students = sorted(students, key=lambda student: student["age"])
+print(sorted_students)
 ```
 
 ### sort
@@ -47,7 +54,18 @@ print(doubled)
 ### filter
 
 ```python
+nums = [1, 2, 3, 4, 5, 6]
+even_nums = list(filter(lambda x: x % 2 == 0, nums))
+print(even_nums)
 ```
 
 ```python
+tuple_list = [
+    (1, 2, 3, False),
+    (1, 2, 3, False),
+    (1, 2, 3, False),
+    (1, 2, 3, True),
+]
+result = list(filter(lambda x: x[3], tuple_list))
+print(result)
 ```
