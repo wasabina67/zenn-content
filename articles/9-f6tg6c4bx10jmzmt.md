@@ -35,6 +35,26 @@ docker rmi hello-world:latest
 docker rmi python:3.10-slim
 ```
 
+### イメージをビルド
+
+- Dockerfile
+
+```Dockerfile
+FROM hello-world:latest
+```
+
+- ビルド
+
+```bash
+docker build -t wasabina67/hello-world:0.1 .
+```
+
+- タグ付けして差分ビルド
+
+```bash
+docker build -t wasabina67/hello-world:0.2 .
+```
+
 ## Dockerコンテナ
 
 ## その他
