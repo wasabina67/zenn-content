@@ -1,10 +1,12 @@
 ---
-title: ""
-emoji: ""
+title: "Bookmarkletについて"
+emoji: "📚"
 type: "tech"
-topics: [""]
-published: false
-published_at: 2024-01-01
+topics: ["bookmarklet"]
+published: true
+published_at: 2024-10-06
 ---
 
-zzzz
+## alert
+
+## name, scoreに文字列を追加
