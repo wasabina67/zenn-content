@@ -1,10 +1,12 @@
 ---
-title: ""
-emoji: ""
+title: "dateコマンドで時刻設定する"
+emoji: "🗓️"
 type: "tech"
-topics: [""]
-published: false
-published_at: 2024-01-01
+topics: ["date"]
+published: true
+published_at: 2024-10-06
 ---
 
-zzzz
+```bash
+sudo date -s "2024-10-06 10:00:00"
+```
