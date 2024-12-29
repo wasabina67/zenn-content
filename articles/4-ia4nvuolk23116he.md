@@ -31,6 +31,13 @@ print(sorted_students)
 ### sort
 
 ```python
+students = [
+    {"name": "John", "age": 15},
+    {"name": "Jane", "age": 17},
+    {"name": "Dave", "age": 16},
+]
+students.sort(key=lambda student: student["age"])
+print(students)
 ```
 
 ### max
