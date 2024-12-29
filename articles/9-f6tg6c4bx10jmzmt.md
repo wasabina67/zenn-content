@@ -49,6 +49,13 @@ FROM hello-world:latest
 docker build -t wasabina67/hello-world:0.1 .
 ```
 
+- Dockerfile
+
+```Dockerfile
+FROM hello-world:latest
+CMD ["echo", "Hello, World!"]
+```
+
 - タグ付けして差分ビルド
 
 ```bash
@@ -62,6 +69,16 @@ docker push wasabina67/hello-world:0.1
 ```
 
 ## Dockerコンテナ
+
+### 新しいコンテナを作成して実行
+
+```bash
+docker run hello-world:latest
+```
+
+```bash
+docker run -it --name mypython python:3.10-slim /bin/bash
+```
 
 ## その他
 
