@@ -43,11 +43,25 @@ print(students)
 ### max
 
 ```python
+items = [
+    {"name": "iPhone", "price": 1000},
+    {"name": "Samsung Galaxy", "price": 800},
+    {"name": "Pixel", "price": 900},
+]
+most_expensive = max(items, key=lambda item: item["price"])
+print(most_expensive)
 ```
 
 ### min
 
 ```python
+items = [
+    {"name": "iPhone", "price": 1000},
+    {"name": "Samsung Galaxy", "price": 800},
+    {"name": "Pixel", "price": 900},
+]
+least_expensive = min(items, key=lambda item: item["price"])
+print(least_expensive)
 ```
 
 ### map
