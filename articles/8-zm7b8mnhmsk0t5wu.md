@@ -15,7 +15,35 @@ published_at: 2024-08-10
 
 ### 圧縮
 
+※ リポジトリのルートディレクトリから実行
+
+- HEADを指定
+
+```bash
+git archive --format=tar.gz -o your_repository.tar.gz HEAD
+```
+
+- 特定のブランチを指定
+
+```bash
+git archive --format=tar.gz -o your_repository.tar.gz your_branch
+```
+
+- 特定のコミットを指定
+
+```bash
+git archive --format=tar.gz -o your_repository.tar.gz your_commit_hash
+```
+
 ### 展開
+
+```bash
+cd /path/to/destination
+```
+
+```bash
+tar -xzf your_repository.tar.gz
+```
 
 ## tar
 
@@ -24,5 +52,9 @@ published_at: 2024-08-10
 :::
 
 ### 圧縮
+
+※ リポジトリのルートディレクトリから実行
+
+※ 一つ上の階層から実行
 
 ### 展開
