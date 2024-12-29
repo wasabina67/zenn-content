@@ -7,4 +7,14 @@ published: true
 published_at: 2024-08-10
 ---
 
-zzzz
+## git-archive
+
+:::message
+`.git`ディレクトリは、**アーカイブに含まれません**。
+:::
+
+## tar
+
+:::message
+`.git`ディレクトリは、**アーカイブに含まれます**。
+:::
