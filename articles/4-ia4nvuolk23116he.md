@@ -1,10 +1,15 @@
 ---
-title: ""
-emoji: ""
+title: "PythonのLambda関数について"
+emoji: "🤖"
 type: "tech"
-topics: [""]
-published: false
-published_at: 2024-01-01
+topics: ["python"]
+published: true
+published_at: 2024-10-07
 ---
 
-zzzz
+## 基本構文
+
+```python
+add = lambda x, y: x + y
+print(add(3, 5))
+```
