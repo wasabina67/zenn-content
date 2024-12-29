@@ -10,7 +10,7 @@ published_at: 2024-10-06
 ## alert
 
 ```javascript
-javascript:(function(){alert('Hello, Bookmarklet!');})();
+javascript:(function(){alert('Hello, Bookmarklet!');void(0);})();
 ```
 
 ```javascript
