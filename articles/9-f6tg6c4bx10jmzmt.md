@@ -55,6 +55,12 @@ docker build -t wasabina67/hello-world:0.1 .
 docker build -t wasabina67/hello-world:0.2 .
 ```
 
+### イメージをプッシュ
+
+```bash
+docker push wasabina67/hello-world:0.1
+```
+
 ## Dockerコンテナ
 
 ## その他
