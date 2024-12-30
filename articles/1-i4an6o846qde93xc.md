@@ -4,7 +4,7 @@ emoji: "🎲"
 type: "tech"
 topics: ["random"]
 published: true
-published_at: 2024-12-28
+published_at: 2024-12-30
 ---
 
 ```bash

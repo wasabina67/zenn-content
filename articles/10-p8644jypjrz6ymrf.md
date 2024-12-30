@@ -4,7 +4,7 @@ emoji: "🚀"
 type: "tech"
 topics: ["npm"]
 published: true
-published_at: 2024-10-07
+published_at: 2024-12-30
 ---
 
 ## Create a package.json file

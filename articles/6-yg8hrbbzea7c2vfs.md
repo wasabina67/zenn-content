@@ -4,7 +4,7 @@ emoji: "🌿"
 type: "tech"
 topics: ["git", "branch"]
 published: true
-published_at: 2024-10-04
+published_at: 2024-12-30
 ---
 
 ## ローカルブランチの削除

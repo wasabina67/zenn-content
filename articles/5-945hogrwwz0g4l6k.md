@@ -4,7 +4,7 @@ emoji: "📚"
 type: "tech"
 topics: ["bookmarklet"]
 published: true
-published_at: 2024-10-06
+published_at: 2024-12-30
 ---
 
 ## alert

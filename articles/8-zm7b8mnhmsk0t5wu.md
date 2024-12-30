@@ -4,7 +4,7 @@ emoji: "😺"
 type: "tech"
 topics: ["git"]
 published: true
-published_at: 2024-08-10
+published_at: 2024-12-30
 ---
 
 ## git-archive
