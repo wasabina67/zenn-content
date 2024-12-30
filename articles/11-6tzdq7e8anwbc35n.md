@@ -1,10 +1,10 @@
 ---
-title: ""
-emoji: ""
+title: "GitHub Pagesでカスタムドメインを設定する"
+emoji: "📄"
 type: "tech"
-topics: [""]
-published: false
-published_at: 2024-01-01
+topics: ["githubpages"]
+published: true
+published_at: 2024-08-03
 ---
 
 zzzz
