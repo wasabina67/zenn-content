@@ -50,3 +50,9 @@ Apexドメインを使う場合、Aレコード/AAAAレコードを追加する�
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site?platform=linux#configuring-an-apex-domain-and-the-www-subdomain-variant
 
 ![](/images/11/2.png)
+
+## 3. Custom domainの設定 ②
+
+① の冒頭で設定した `Custom domain` で、 `✔ DNS check successful` と表示されることを確認する。
+
+![](/images/11/3.png)
