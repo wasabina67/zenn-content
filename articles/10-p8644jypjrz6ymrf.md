@@ -8,3 +8,5 @@ published_at: 2024-10-07
 ---
 
 ## Create a package.json file
+
+## Install a package
