@@ -66,3 +66,45 @@ npm uninstall <package-name>
 ```bash
 npm list
 ```
+
+### Global
+
+```bash
+npm list -g
+```
+
+```bash
+npm list -g --depth=0
+```
+
+## View registry info
+
+```bash
+npm info <package-name>
+```
+
+## Run arbitrary package scripts
+
+```bash
+npm run <command>
+```
+
+## Update packages
+
+```bash
+npm update
+```
+
+```bash
+npm update <package-name>
+```
+
+### Global
+
+```bash
+npm update -g
+```
+
+```bash
+npm update -g <package-name>
+```
