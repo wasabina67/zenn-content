@@ -4,7 +4,11 @@ emoji: "🦇"
 type: "tech"
 topics: ["bat", "lnk"]
 published: false
-published_at: 2024-01-01
+published_at: 2025-04-28
 ---
 
-zzzz
+```bat
+@echo off
+timeout /t 60 /nobreak
+start "" "C:\Shortcuts\run.exe - ショートカット.lnk"
+```
