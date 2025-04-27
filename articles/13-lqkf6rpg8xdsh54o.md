@@ -12,3 +12,6 @@ published_at: 2025-04-28
 timeout /t 60 /nobreak
 start "" "C:\Shortcuts\run.exe - ショートカット.lnk"
 ```
+
+- `run_after_60s.bat`
+- `ANSI`
