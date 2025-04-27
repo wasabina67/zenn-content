@@ -1,10 +1,10 @@
 ---
 title: ""
-emoji: ""
+emoji: "⚙️"
 type: "tech"
-topics: [""]
+topics: ["env"]
 published: false
-published_at: 2024-01-01
+published_at: 2025-04-28
 ---
 
 ## zzzz
