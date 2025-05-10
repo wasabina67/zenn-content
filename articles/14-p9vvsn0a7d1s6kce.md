@@ -1,10 +1,10 @@
 ---
-title: ""
-emoji: ""
+title: "macOS環境構築について"
+emoji: "🍎"
 type: "tech"
-topics: [""]
+topics: ["mac"]
 published: false
-published_at: 2024-01-01
+published_at: 2025-05-11
 ---
 
 zzzz
