@@ -52,6 +52,8 @@ brew install --cask google-chrome
 
 ## Git
 
+- Homebrewからインストールしたgitを使う
+
 ```zsh
 brew install git
 ```
@@ -69,3 +71,13 @@ which git
 ```
 
 ## GitHub
+
+- GitHubへSSHできるようにする
+
+```zsh
+ssh -T git@github.com
+```
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
