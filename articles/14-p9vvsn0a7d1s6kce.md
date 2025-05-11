@@ -97,10 +97,13 @@ nvm ls
 ```
 
 ```zsh
+nvm --version
 ```
 
 ```zsh
+npm --version
 ```
 
 ```zsh
+node --version
 ```
