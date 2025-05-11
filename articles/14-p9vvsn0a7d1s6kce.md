@@ -83,3 +83,24 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 ## nvm
+
+```zsh
+brew install nvm
+```
+
+```zsh
+nvm install --lts
+```
+
+```zsh
+nvm ls
+```
+
+```zsh
+```
+
+```zsh
+```
+
+```zsh
+```
