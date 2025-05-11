@@ -30,6 +30,10 @@ brew doctor
 ### パッケージ定義を最新化
 
 ```zsh
+brew list
+```
+
+```zsh
 brew update
 ```
 
@@ -42,3 +46,9 @@ brew install --cask visual-studio-code
 ```zsh
 brew install --cask google-chrome
 ```
+
+## VSCode
+
+## Git
+
+## GitHub
