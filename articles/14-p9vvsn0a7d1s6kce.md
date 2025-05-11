@@ -32,3 +32,13 @@ brew doctor
 ```zsh
 brew update
 ```
+
+### VSCode, Chrome
+
+```zsh
+brew install --cask visual-studio-code
+```
+
+```zsh
+brew install --cask google-chrome
+```
