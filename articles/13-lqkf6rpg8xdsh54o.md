@@ -13,5 +13,5 @@ timeout /t 60 /nobreak
 start "" "C:\Shortcuts\run.exe - ショートカット.lnk"
 ```
 
-- `run_after_60s.bat`
-- `ANSI`
+- `run_after_60s.bat`などでファイルを作成
+- `ANSI`として保存
