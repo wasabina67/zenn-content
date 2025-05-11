@@ -7,4 +7,16 @@ published: false
 published_at: 2025-05-11
 ---
 
-zzzz
+## Xcode Command Line Tools
+
+```
+xcode-select --install
+```
+
+## Homebrew
+
+https://brew.sh/
+
+```
+brew install wget
+```
