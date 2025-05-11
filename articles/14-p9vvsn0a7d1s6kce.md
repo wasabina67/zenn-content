@@ -52,4 +52,12 @@ brew install --cask google-chrome
 
 ## Git
 
+```zsh
+brew install git
+```
+
+```zsh
+which git
+```
+
 ## GitHub
