@@ -60,4 +60,12 @@ brew install git
 which git
 ```
 
+```zsh
+/usr/bin/git --version
+```
+
+```zsh
+/usr/local/bin/git --version
+```
+
 ## GitHub
