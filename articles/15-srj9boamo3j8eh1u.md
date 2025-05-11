@@ -1,10 +1,10 @@
 ---
-title: ""
-emoji: ""
+title: "Windows11環境構築について"
+emoji: "🪟"
 type: "tech"
-topics: [""]
+topics: ["windows11"]
 published: false
-published_at: 2024-01-01
+published_at: 2024-05-11
 ---
 
 zzzz
