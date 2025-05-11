@@ -3,7 +3,7 @@ title: ".batファイルで、timeoutしてから、.lnkファイルを実行す
 emoji: "🦇"
 type: "tech"
 topics: ["bat", "lnk"]
-published: false
+published: true
 published_at: 2025-04-28
 ---
 
