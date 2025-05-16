@@ -1,10 +1,12 @@
 ---
-title: ""
-emoji: ""
+title: "VSCodeで短径選択する"
+emoji: "🚀"
 type: "tech"
-topics: [""]
+topics: ["vscode"]
 published: false
-published_at: 2024-01-01
+published_at: 2025-01-01
 ---
 
-zzzz
+```
+Ctrl + Shift + Alt + 矢印キー
+```
