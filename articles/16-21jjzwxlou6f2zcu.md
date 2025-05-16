@@ -13,7 +13,17 @@ WIP
 
 ## 使い方
 
-WIP
+```bash
+devtunnel user login
+```
+
+```bash
+devtunnel host -p 4173
+```
+
+```bash
+devtunnel host -p 4173 --allow-anonymous
+```
 
 ## 実業務での利用例
 
