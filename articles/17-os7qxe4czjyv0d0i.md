@@ -1,5 +1,5 @@
 ---
-title: "VSCodeで短径選択する"
+title: "VSCodeで矩形選択する"
 emoji: "🚀"
 type: "tech"
 topics: ["vscode"]
