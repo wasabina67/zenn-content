@@ -1,13 +1,13 @@
 ---
 title: "Docker上でKanboardを実行する"
-emoji: ""
+emoji: "🗒️"
 type: "tech"
-topics: [""]
-published: false
-published_at: 2025-01-01
+topics: ["kanban", "docker"]
+published: true
+published_at: 2025-05-17
 ---
 
-## `docker run`する
+## 実行方法
 
 ```bash
 docker run -d --name kanboard -p 3000:80 -t kanboard/kanboard:latest
