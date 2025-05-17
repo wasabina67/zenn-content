@@ -1,5 +1,5 @@
 ---
-title: "[WIP] Windows11環境構築について"
+title: "Windows11環境構築について"
 emoji: "🪟"
 type: "tech"
 topics: ["windows11"]
