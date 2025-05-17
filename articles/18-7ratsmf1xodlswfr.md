@@ -19,3 +19,4 @@ docker run -d --name kanboard -p 3000:80 -t kanboard/kanboard:latest
 ## 参考資料
 
 - https://hub.docker.com/r/kanboard/kanboard
+- https://kanboard-documentation-ja.readthedocs.io/ja/latest/admin_guide/docker.html
