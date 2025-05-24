@@ -15,7 +15,8 @@ published_at: 2025-05-24
 
 ## GitHub Pagesとは
 
-WIP
+- GitHub Pagesは、GitHubが提供する静的サイトホスティングサービス
+- GitHubリポジトリに含まれているHTML、CSS、JavaScriptを使用して、Webサイトをホストできる
 
 ## 参考資料
 
