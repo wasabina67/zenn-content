@@ -1,5 +1,5 @@
 ---
-title: "Gitでサブモジュールを管理する"
+title: "Gitのサブモジュールについて"
 emoji: "😺"
 type: "tech"
 topics: ["git"]
