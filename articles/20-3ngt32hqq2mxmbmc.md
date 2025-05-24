@@ -16,9 +16,11 @@ git submodule add <submodule-repository-url> <directory>
 ### サブモジュールの更新
 
 ```bash
+git submodule update --remote
 ```
 
 ### サブモジュールを初期化して更新
 
 ```bash
+git submodule update --init --recursive
 ```
