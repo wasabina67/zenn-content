@@ -1,5 +1,5 @@
 ---
-title: "Gitのサブモジュールについて"
+title: "Gitサブモジュールについて"
 emoji: "😺"
 type: "tech"
 topics: ["git"]
