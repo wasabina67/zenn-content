@@ -39,13 +39,19 @@ devtunnel host -p 4173 --allow-anonymous
 
 WIP
 
+![](/images/16/mushitori.png)
+
 ### 2. APIテスト
 
 WIP
 
+![](/images/16/teacher_saiten_man.png)
+
 ### 3. ビジネスサイドとの共有
 
 WIP
+
+![](/images/16/business_online_syoudan_uchiawase.png)
 
 ## まとめ
 
