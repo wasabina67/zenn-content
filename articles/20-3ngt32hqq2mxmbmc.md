@@ -1,9 +1,9 @@
 ---
-title: ""
-emoji: ""
+title: "Gitでサブモジュールを管理する"
+emoji: "😺"
 type: "tech"
-topics: [""]
-published: false
+topics: ["git"]
+published: true
 published_at: 2025-05-24
 ---
 
