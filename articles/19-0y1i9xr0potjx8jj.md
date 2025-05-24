@@ -3,7 +3,7 @@ title: "GitHub Pagesの商用利用について"
 emoji: "😺"
 type: "tech"
 topics: ["github", "githubpages"]
-published: false
+published: true
 published_at: 2025-05-24
 ---
 
