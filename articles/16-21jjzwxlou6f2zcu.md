@@ -29,7 +29,7 @@ devtunnel host -p 4173
 devtunnel host -p 4173 --allow-anonymous
 ```
 
-## 業務での利用例
+## 業務での利用事例
 
 ### 1. リモートデバッグ
 
