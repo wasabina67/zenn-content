@@ -10,6 +10,7 @@ published_at: 2025-05-24
 ### サブモジュールの追加
 
 ```bash
+git submodule add <submodule-repository-url> <directory>
 ```
 
 ### サブモジュールの更新
