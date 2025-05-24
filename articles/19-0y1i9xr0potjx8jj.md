@@ -1,13 +1,13 @@
 ---
-title: ""
-emoji: ""
+title: "GitHub Pagesの商用利用について"
+emoji: "😺"
 type: "tech"
-topics: ["github"]
+topics: ["github", "githubpages"]
 published: false
 published_at: 2025-05-24
 ---
 
-## WIP
+## GitHub Pagesとは
 
 WIP
 
