@@ -44,8 +44,8 @@ devtunnel host -p 4173 --allow-anonymous
 
 ### 2. APIテスト
 
-- ローカルのAPIエンドポイントを公開できます
-- 開発段階でのAPI仕様確認にも有効です
+- ローカル環境のAPIエンドポイントを公開する
+- 開発段階で気づいた仕様の確認や懸念事項の共有に有効
 
 ![](/images/16/teacher_saiten_man.png =150x)
 
