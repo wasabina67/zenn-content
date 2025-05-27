@@ -10,6 +10,7 @@ published_at: 2025-05-27
 ## devtunnel CLIとは
 
 - devtunnel CLIとは、Microsoftが開発したトンネリングツール
+- Microsoft または GitHubアカウントを使用してログインし、開発トンネルの管理とアクセスの承認を行う
 
 ## トンネリングツールとは
 
