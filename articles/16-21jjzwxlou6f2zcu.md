@@ -54,11 +54,6 @@ devtunnel host -p 4173 --allow-anonymous
 - 開発中の機能をステークホルダーに迅速に共有し、フィードバックを得ることができる
 - リモートワーク環境でのデモに最適
 
-
-
-
-- デプロイ前の段階で、UIやユーザビリティの確認を行い、要件との齟齬を早期に発見できます
-
 ![](/images/16/business_online_syoudan_uchiawase.png =150x)
 
 ## まとめ
