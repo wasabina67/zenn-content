@@ -7,6 +7,9 @@ published: true
 published_at: 2025-05-27
 ---
 
+<!-- 長いトンネルを抜けると、そこは localhost だった―― -->
+<!-- 川端康成のファンじゃないので、やめとく -->
+
 ## devtunnel CLIとは
 
 - devtunnel CLIとは、Microsoftが開発したトンネリングツール
