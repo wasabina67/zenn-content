@@ -4,14 +4,12 @@ emoji: "🚇"
 type: "tech"
 topics: ["tunnel"]
 published: true
-published_at: 2025-05-24
+published_at: 2025-05-27
 ---
 
 ## devtunnel CLIとは
 
-- devtunnel CLIは、Microsoftが開発したトンネリングツールです
-- ローカル環境で動作するWebアプリやAPIを、インターネット経由で外部からアクセス可能にします
-- Azure Active Directoryとの統合により、セキュアな認証機能を提供し、安全な共有を実現します
+- devtunnel CLIとは、Microsoftが開発したトンネリングツール
 
 ## トンネリングツールとは
 
