@@ -4,7 +4,7 @@ emoji: "🚇"
 type: "tech"
 topics: ["tunnel"]
 published: true
-published_at: 2025-05-29
+published_at: 2025-05-28
 ---
 
 <!-- 長いトンネルを抜けると、そこは localhost だった―― -->
