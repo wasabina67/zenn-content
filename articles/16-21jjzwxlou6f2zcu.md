@@ -24,10 +24,11 @@ published_at: 2025-05-27
 
 ![](/images/16/flowchart.png)
 
-① hogehoge
-② hogehoge
-③ hogehoge
-④ hogehoge
+1. Hostから、devtunnel ServerにHTTPS通信する
+    - devtunnel CLIの起動中は、Serverとの通信を維持する
+2. hogehoge
+3. hogehoge
+4. hogehoge
 
 ## 使い方
 
