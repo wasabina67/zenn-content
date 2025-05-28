@@ -3,8 +3,8 @@ title: "devtunnel CLIの概要と活用事例について"
 emoji: "🚇"
 type: "tech"
 topics: ["tunnel"]
-published: false
-published_at: 2025-05-24
+published: true
+published_at: 2025-05-28
 ---
 
 <!-- 長いトンネルを抜けると、そこは localhost だった―― -->
@@ -26,23 +26,61 @@ published_at: 2025-05-24
 
 ![](/images/16/flowchart.png)
 
-1. Hostから、devtunnel ServerにHTTPS通信する (devtunnel CLIの起動中は通信を維持)
-2. Webアプリに転送するURLを発行する (`https://tunnelid-3000.devtunnels.ms` -> http://localhost:3000)
-3. ① の通信を使って、devtunnel CLI経由で通信内容(Request)はWebアプリ側へ渡される
-4. ③で返却された通信内容(Response)は、同じ経路をたどって、Clientに返却される
+① Hostから、devtunnel ServerにHTTPS通信する (devtunnel CLIの起動中は通信を維持)
+② Webアプリに転送するURLを発行する (`https://tunnelid-3000.devtunnels.ms` -> http://localhost:3000)
+③　①の通信を使って、devtunnel CLI経由で通信内容(Request)はWebアプリ側へ渡される
+④　③で返却された通信内容(Response)は、同じ経路をたどって、Clientに返却される
+
+> ③と④は、①のトンネルを利用して通信するので、本来、点線部分は①の矢印の中を通るように記載すべきだが、便宜上分けて記載している
 
 ## 使い方
+
+### インストール
+
+```bash
+curl -sL https://aka.ms/DevTunnelCliInstall | bash
+```
+
+### ログイン
 
 ```bash
 devtunnel user login
 ```
 
-```bash
-devtunnel host -p 4173
-```
+- ログイン成功
 
 ```bash
-devtunnel host -p 4173 --allow-anonymous
+$ devtunnel user login
+Logged in as wasabina67@gmail.com using Microsoft.
+```
+
+- 確認
+
+```bash
+devtunnel user show
+```
+
+### 公開するアプリを起動
+
+```bash
+echo "Hello, devtunnel CLI!" > index.html && \
+echo "const express=require('express');const app=express();app.use(express.static(__dirname));app.listen(3000,()=>console.log('Server running → http://localhost:3000'));" > server.js && \
+npm i express && \
+node server.js
+```
+
+### 開発トンネルをホストする
+
+- 一時的な開発トンネルをホストする
+
+```bash
+devtunnel host -p 3000
+```
+
+- 一時的な開発トンネルをホストし、匿名クライアントアクセスを有効にする
+
+```bash
+devtunnel host -p 3000 --allow-anonymous
 ```
 
 ## 業務での利用事例
@@ -78,6 +116,6 @@ devtunnel host -p 4173 --allow-anonymous
 
 - [microsoft/dev-tunnels: Dev Tunnels SDK](https://github.com/microsoft/dev-tunnels)
 - [開発トンネルのドキュメント | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/)
-- [開発トンネルとは - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/overview)
-- [トンネルを作成してホストする - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/get-started?tabs=linux)
-- [開発トンネル コマンドライン リファレンス - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/cli-commands)
+  - [開発トンネルとは - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/overview)
+  - [トンネルを作成してホストする - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/get-started?tabs=linux)
+  - [開発トンネル コマンドライン リファレンス - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/cli-commands)
