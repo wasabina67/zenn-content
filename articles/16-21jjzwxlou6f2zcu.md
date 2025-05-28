@@ -35,8 +35,39 @@ published_at: 2025-05-29
 
 ## 使い方
 
+### インストール
+
+```bash
+curl -sL https://aka.ms/DevTunnelCliInstall | bash
+```
+
+### ログイン
+
 ```bash
 devtunnel user login
+```
+
+```bash
+$ devtunnel user login
+Logged in as wasabina67@gmail.com using Microsoft.
+```
+
+```bash
+devtunnel user show
+```
+
+### 公開するアプリを起動
+
+```bash
+echo "Hello, devtunnel CLI!" > index.html
+```
+
+```bash
+echo "const express=require('express');const app=express();app.use(express.static(__dirname));app.listen(3000,()=>console.log('Server running → http://localhost:3000'));" > server.js
+```
+
+```bash
+npm i express && node server.js
 ```
 
 ```bash
