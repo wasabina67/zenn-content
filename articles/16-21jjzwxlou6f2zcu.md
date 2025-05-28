@@ -26,8 +26,8 @@ published_at: 2025-05-27
 
 1. Hostから、devtunnel ServerにHTTPS通信する (devtunnel CLIの起動中は通信を維持)
 2. Webアプリに転送するURLを発行する (`https://tunnelid-3000.devtunnels.ms` -> http://localhost:3000)
-3. ① の通信を使って、devtunnel CLI経由で通信内容(Request)をWebアプリ側へ渡す
-4. ③で返却された通信内容(Response)を、同じ経路をたどって、Clientに返却する
+3. ① の通信を使って、devtunnel CLI経由で通信内容(Request)はWebアプリ側へ渡される
+4. ③で返却された通信内容(Response)は、同じ経路をたどって、Clientに返却される
 
 ## 使い方
 
