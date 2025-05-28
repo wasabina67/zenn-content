@@ -22,6 +22,8 @@ published_at: 2025-05-27
   - FWやNATのような「外部からの新規接続を止める仕組み」を超えて通信を可能にするため、注意が必要
 - devtunnel CLI以外では、ngrokやCloudflare Tunnelなどが有名
 
+### devtunnel CLIでのフローチャート
+
 ![](/images/16/flowchart.png)
 
 1. Hostから、devtunnel ServerにHTTPS通信する (devtunnel CLIの起動中は通信を維持)
