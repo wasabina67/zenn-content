@@ -70,12 +70,18 @@ echo "const express=require('express');const app=express();app.use(express.stati
 npm i express && node server.js
 ```
 
-```bash
-devtunnel host -p 4173
-```
+### 開発トンネルをホストする
+
+- 一時的な開発トンネルをホストする
 
 ```bash
-devtunnel host -p 4173 --allow-anonymous
+devtunnel host -p 3000
+```
+
+- 一時的な開発トンネルをホストし、匿名クライアントアクセスを有効にする
+
+```bash
+devtunnel host -p 3000 --allow-anonymous
 ```
 
 ## 業務での利用事例
