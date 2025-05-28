@@ -72,7 +72,7 @@ devtunnel host -p 3000
 devtunnel host -p 3000 --allow-anonymous
 ```
 
-## 業務での利用事例
+## 業務での利用例
 
 ### 1. リモートデバッグ
 
