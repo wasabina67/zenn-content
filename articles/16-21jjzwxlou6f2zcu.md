@@ -22,7 +22,7 @@ published_at: 2025-05-28
   - FWやNATのような「外部からの新規接続（インバウンド）を止める仕組み」を超えて通信を可能にするため、注意が必要
 - devtunnel CLI以外では、ngrokやCloudflare Tunnelなどが有名
   - ngrokは、10年以上前から存在し、業界のデファクト的に使われてきた
-  - devtunnel CLIは、2022~2023年生まれの比較的に新しいツール
+  - devtunnel CLIは、2022~2023年生まれの比較的新しいツール
 
 ### devtunnel CLIでのフローチャート
 
