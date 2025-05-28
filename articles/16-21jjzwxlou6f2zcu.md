@@ -47,19 +47,6 @@ curl -sL https://aka.ms/DevTunnelCliInstall | bash
 devtunnel user login
 ```
 
-- ログイン成功
-
-```bash
-$ devtunnel user login
-Logged in as wasabina67@gmail.com using Microsoft.
-```
-
-- 確認
-
-```bash
-devtunnel user show
-```
-
 ### 公開するアプリを起動
 
 ```bash
@@ -77,7 +64,7 @@ node server.js
 devtunnel host -p 3000
 ```
 
-- 一時的な開発トンネルをホストし、匿名クライアントアクセスを有効にする
+- 一時的な開発トンネルをホストする (匿名のクライアントアクセスを有効化)
 
 ```bash
 devtunnel host -p 3000 --allow-anonymous
