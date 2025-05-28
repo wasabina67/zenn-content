@@ -47,10 +47,14 @@ curl -sL https://aka.ms/DevTunnelCliInstall | bash
 devtunnel user login
 ```
 
+- ログイン成功
+
 ```bash
 $ devtunnel user login
 Logged in as wasabina67@gmail.com using Microsoft.
 ```
+
+- 確認
 
 ```bash
 devtunnel user show
