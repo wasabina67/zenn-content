@@ -64,7 +64,7 @@ node server.js
 devtunnel host -p 3000
 ```
 
-- 一時的な開発トンネルをホストし、匿名クライアントアクセスを有効にする
+- 一時的な開発トンネルをホストする (匿名のクライアントアクセスを有効化)
 
 ```bash
 devtunnel host -p 3000 --allow-anonymous
