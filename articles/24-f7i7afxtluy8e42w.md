@@ -21,10 +21,10 @@ REMOTE_DIR="/public"
 
 # Local file to upload
 LOCAL_FILE="tmp"
-touch $LOCAL_FILE
+echo "This is test content" > $LOCAL_FILE
 
-# Create FTP command sequence
-FTP_COMMANDS=$(cat << EOF
+# Execute FTP commands using heredoc
+ftp -n << EOF
 open $SERVER $PORT
 user $USERNAME $PASSWORD
 passive
@@ -34,10 +34,6 @@ mput $LOCAL_FILE
 ls
 bye
 EOF
-)
-
-# Execute FTP commands
-echo "$FTP_COMMANDS" | ftp -n
 
 # Clean up temporary file
 rm -f $LOCAL_FILE
