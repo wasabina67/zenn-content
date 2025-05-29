@@ -12,7 +12,7 @@ echo $3
 echo 'Hello, World!'
 
 if [ "$?" -eq 0 ]; then
-    echo 'Command succeeded.'
+    echo 'Command succeeded 🤗'
 else
-    echo 'Command failed.'
+    echo 'Command failed 😱'
 fi
