@@ -1,10 +1,10 @@
 ---
-title: ""
-emoji: ""
+title: "title"
+emoji: "🐍"
 type: "tech"
-topics: [""]
-published: false
-published_at: 2025-05-01
+topics: ["python"]
+published: true
+published_at: 2025-05-29
 ---
 
 zzzz
