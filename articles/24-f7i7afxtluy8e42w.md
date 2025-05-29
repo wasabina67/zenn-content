@@ -1,5 +1,5 @@
 ---
-title: "title"
+title: "BashでFTP操作を自動化する"
 emoji: "🗂"
 type: "tech"
 topics: ["ftp"]
