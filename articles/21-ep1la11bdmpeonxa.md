@@ -7,6 +7,8 @@ published: true
 published_at: 2025-05-29
 ---
 
+https://github.com/redis/redis-py
+
 ```bash
 >>> import redis
 >>> r = redis.Redis(host='localhost', port=6379, db=0)
@@ -41,5 +43,3 @@ True
 51
 >>>
 ```
-
-https://github.com/redis/redis-py
