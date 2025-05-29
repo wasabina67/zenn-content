@@ -1,5 +1,5 @@
 ---
-title: "title"
+title: "60秒毎にtracertする"
 emoji: "⚡"
 type: "tech"
 topics: ["batch"]
