@@ -6,11 +6,9 @@ if [ "$#" -ne 3 ]; then
 fi
 
 echo 'The number of arguments is 3.'
-
 echo $1
 echo $2
 echo $3
-
 echo 'Hello, World!'
 
 if [ "$?" -eq 0 ]; then
