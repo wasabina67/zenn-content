@@ -21,16 +21,16 @@ published_at: 2025-05-28
   - これにより、物理的に同じ場所にいなくても、クライアントやチームメンバーとの共有を図ることができ、リアルタイムでフィードバックを得ることができる
   - FWやNATのような「外部からの新規接続（インバウンド）を止める仕組み」を超えて通信を可能にするため、注意が必要
 - devtunnel CLI以外では、ngrokやCloudflare Tunnelなどが有名
-  - ngrokは、10年以上前から存在し、デファクト的に使われてきた
+  - ngrokは、10年以上前から存在し、業界のデファクト的に使われてきた
   - devtunnel CLIは、2022~2023年生まれの比較的新しいツール
 
 ### devtunnel CLIでのフローチャート
 
 ![](/images/16/flowchart.png)
 
-① Hostから、devtunnel ServerにHTTPS通信する (devtunnel CLIの起動中は通信を維持)<br>
-② Webアプリに転送するURLを発行する (`https://tunnelid-3000.devtunnels.ms` -> http://localhost:3000)<br>
-③　①の通信を使って、devtunnel CLI経由で通信内容(Request)はWebアプリ側へ渡される<br>
+① Hostから、devtunnel ServerにHTTPS通信する (devtunnel CLIの起動中は通信を維持)
+② Webアプリに転送するURLを発行する (`https://tunnelid-3000.devtunnels.ms` -> http://localhost:3000)
+③　①の通信を使って、devtunnel CLI経由で通信内容(Request)はWebアプリ側へ渡される
 ④　③で返却された通信内容(Response)は、同じ経路をたどって、Clientに返却される
 
 <!-- 上記の全角スペースは、見やすさのため入れてる -->
