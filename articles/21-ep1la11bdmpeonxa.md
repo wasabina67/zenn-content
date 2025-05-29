@@ -7,7 +7,11 @@ published: true
 published_at: 2025-05-29
 ---
 
+## redis/redis-py
+
 https://github.com/redis/redis-py
+
+## スニペット
 
 ```bash
 >>> import redis
