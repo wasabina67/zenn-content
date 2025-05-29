@@ -10,7 +10,7 @@ echo $1
 echo $2
 echo $3
 echo 'Hello, World!'
-# hoge-command
+# dummy-command
 
 if [ "$?" -eq 0 ]; then
     echo 'Command succeeded 🤗'
