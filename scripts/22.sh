@@ -7,4 +7,4 @@ END=$(date +'%s.%3N')
 DURING=$(echo "scale=3; ${END} - ${BEGIN}" | bc)
 echo "BEGIN: ${BEGIN}"
 echo "END: ${END}"
-echo "DURING: ${DURING}"
+echo "DURING: ${DURING} seconds"
