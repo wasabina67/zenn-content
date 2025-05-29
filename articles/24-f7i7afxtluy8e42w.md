@@ -1,6 +1,6 @@
 ---
-title: ""
-emoji: ""
+title: "title"
+emoji: "🗂"
 type: "tech"
 topics: ["ftp"]
 published: true
