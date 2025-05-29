@@ -1,10 +1,10 @@
 ---
-title: "title"
+title: "redis-pyを試したときのスニペット"
 emoji: "🐍"
 type: "tech"
-topics: ["python"]
+topics: ["python", "redis"]
 published: true
 published_at: 2025-05-29
 ---
 
-zzzz
+hoge
