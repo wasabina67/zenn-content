@@ -37,3 +37,7 @@ intr = ^C; quit = ^\; erase = ^?; kill = ^U; eof = ^D; eol = <undef>; eol2 = <un
 opost -olcuc -ocrnl onlcr -onocr -onlret -ofill -ofdel nl0 cr0 tab0 bs0 vt0 ff0
 isig icanon iexten echo echoe echok -echonl -noflsh -xcase -tostop -echoprt echoctl echoke -flusho -extproc
 ```
+
+## サンプルコード
+
+https://github.com/wasabina67/zenn-content/blob/46dd96c30beecaeb4fd91a7902ff7fd7871c0738/scripts/28.sh#L1-L18
