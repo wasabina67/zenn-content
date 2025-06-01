@@ -9,15 +9,4 @@ published_at: 2025-05-29
 
 ## スニペット
 
-```bash
-#!/bin/bash
-
-BEGIN=$(date +'%s.%3N')
-sleep 5
-END=$(date +'%s.%3N')
-
-DURING=$(echo "scale=3; ${END} - ${BEGIN}" | bc)
-echo "BEGIN: ${BEGIN}"
-echo "END: ${END}"
-echo "DURING: ${DURING} seconds"
-```
+https://github.com/wasabina67/zenn-content/blob/337f5f703e0613cc81e1e41e6a847407dcd6d958/scripts/22.sh#L1-L10
