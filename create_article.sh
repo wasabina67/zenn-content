@@ -13,7 +13,7 @@ random_str=$(bash ./urandom_str.sh)
 new_filename="${new_article_num}-${random_str}.md"
 
 # Create new article file from template
-cp ./articles_template/9999-template.md "./articles/${new_filename}"
+cp -p ./articles_template/9999-template.md "./articles/${new_filename}"
 
 # Display created article information
 echo "New article created: ${new_filename}"
