@@ -4,6 +4,7 @@
         "mycounter",
         "mykey",
         "myvalue",
-        "setlocal"
+        "setlocal",
+        "urandom"
     ]
 }
