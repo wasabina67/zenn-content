@@ -7,15 +7,15 @@ published: true
 published_at: 2025-06-01
 ---
 
-# 初期設定 1
+## 初期設定 1
 
-# 初期設定 2
+## 初期設定 2
 
-# Google Chrome
+## Google Chrome
 
 https://www.google.com/intl/ja_jp/chrome/
 
-# WSL
+## WSL
 
 https://learn.microsoft.com/ja-jp/windows/wsl/install
 
@@ -25,11 +25,11 @@ https://zenn.dev/wasabina67/scraps/206d3183daf216
 
 https://zenn.dev/wasabina67/scraps/1d368f2f9b9487
 
-# VSCode
+## VSCode
 
 https://code.visualstudio.com/download
 
-# GitHub
+## GitHub
 
 ```bash
 ssh -T git@github.com
@@ -39,10 +39,10 @@ https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/generati
 
 https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
-# Docker Desktop
+## Docker Desktop
 
 https://docs.docker.jp/desktop/windows/wsl.html
 
-# HeidiSQL
+## HeidiSQL
 
 https://www.heidisql.com/
