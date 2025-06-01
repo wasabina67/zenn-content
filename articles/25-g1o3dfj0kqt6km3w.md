@@ -22,6 +22,10 @@ curl http://localhost:3000/
 ```
 
 ```bash
+curl -i http://localhost:3000/
+```
+
+```bash
 curl -H "Authorization: Bearer MY_TOKEN" http://localhost:3000/
 ```
 
