@@ -14,7 +14,3 @@ new_filename="${new_article_num}-${random_str}.md"
 
 # Create new article file from template
 cp -p ./articles_template/9999-template.md "./articles/${new_filename}"
-
-# Display created article information
-echo "New article created: ${new_filename}"
-echo "File path: ./articles/${new_filename}"
