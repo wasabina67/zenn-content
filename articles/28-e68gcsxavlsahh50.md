@@ -1,5 +1,5 @@
 ---
-title: "title"
+title: "Linuxシグナル処理のメモ"
 emoji: "🚥"
 type: "tech"
 topics: ["bash"]
