@@ -7,6 +7,8 @@ published: true
 published_at: 2025-06-02
 ---
 
+## 使用可能なシグナルの一覧
+
 ```bash
 $ kill -l
  1) SIGHUP       2) SIGINT       3) SIGQUIT      4) SIGILL       5) SIGTRAP
@@ -22,4 +24,9 @@ $ kill -l
 53) SIGRTMAX-11 54) SIGRTMAX-10 55) SIGRTMAX-9  56) SIGRTMAX-8  57) SIGRTMAX-7
 58) SIGRTMAX-6  59) SIGRTMAX-5  60) SIGRTMAX-4  61) SIGRTMAX-3  62) SIGRTMAX-2
 63) SIGRTMAX-1  64) SIGRTMAX
+```
+
+## 各キーでのシグナル
+
+```bash
 ```
