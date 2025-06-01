@@ -9,4 +9,4 @@ published_at: 2025-05-29
 
 ## スニペット
 
-https://github.com/wasabina67/zenn-content/blob/337f5f703e0613cc81e1e41e6a847407dcd6d958/scripts/22.sh#L1-L10
+https://github.com/wasabina67/zenn-content/blob/main/scripts/22.sh#L1-L10
