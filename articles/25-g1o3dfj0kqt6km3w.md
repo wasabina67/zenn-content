@@ -1,14 +1,10 @@
 ---
-title: "60秒毎にtracertする"
-emoji: "⚡"
+title: ""
+emoji: ""
 type: "tech"
-topics: ["batch"]
-published: false
-published_at: 2025-05-29
+topics: [""]
+published: true
+published_at: 2025-06-01
 ---
 
-## スニペット
-
-```batch
-@echo off
-```
+zzzz
