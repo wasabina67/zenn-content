@@ -22,3 +22,7 @@ curl http://localhost:3000/
 ```
 
 ## POST
+
+```bash
+curl -X POST -H "Content-Type: application/json" -d '{"Name":"wasabina67", "Age":"100"}' http://localhost:3000/
+```
