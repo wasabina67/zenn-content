@@ -37,7 +37,6 @@ set "MAIN_LOG=%LOG_DIR%\tracert_log.txt"
     tracert "%TARGET%" >> "%MAIN_LOG%" 2>&1
 
     echo. >> "%MAIN_LOG%"
-
     timeout /t %INTERVAL% >nul
 goto LOOP
 ```
