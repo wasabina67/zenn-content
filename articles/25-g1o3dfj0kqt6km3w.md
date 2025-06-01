@@ -21,6 +21,10 @@ node server.js
 curl http://localhost:3000/
 ```
 
+```bash
+curl -H "Authorization: Bearer MY_TOKEN" http://localhost:3000/
+```
+
 ## POST
 
 ```bash
