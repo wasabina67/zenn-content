@@ -13,12 +13,32 @@ published_at: 2025-06-01
 
 # Google Chrome
 
+https://www.google.com/intl/ja_jp/chrome/
+
 # WSL
+
+https://learn.microsoft.com/ja-jp/windows/wsl/install
+
+https://learn.microsoft.com/ja-jp/windows/wsl/tutorials/linux
 
 # VSCode
 
+https://code.visualstudio.com/download
+
 # GitHub
+
+```bash
+ssh -T git@github.com
+```
+
+https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
+
+https://docs.github.com/ja/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 # Docker Desktop
 
+https://docs.docker.jp/desktop/windows/wsl.html
+
 # HeidiSQL
+
+https://www.heidisql.com/
