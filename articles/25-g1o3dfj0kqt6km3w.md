@@ -7,4 +7,8 @@ published: true
 published_at: 2025-06-01
 ---
 
-zzzz
+```bash
+echo "const express=require('express');const app=express();app.get('/',(req,res)=>{res.json({\"Name\":\"wasabina67\",\"Age\":\"100\"})});app.listen(3000,()=>console.log('Server running → http://localhost:3000'));" > server.js && \
+npm i express && \
+node server.js
+```
