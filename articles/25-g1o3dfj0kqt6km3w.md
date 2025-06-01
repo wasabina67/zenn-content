@@ -9,6 +9,10 @@ published_at: 2025-06-01
 
 ## スニペット
 
+- Windows環境向けのbatファイル
+- ファイル名は `tracert_loop.bat` など、エンコードは `ANSI` で保存する
+- `Ctrl + C` から停止する
+
 ```batch
 @echo off
 
