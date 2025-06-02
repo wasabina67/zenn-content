@@ -110,3 +110,7 @@ devtunnel host -p 3000 --allow-anonymous
   - [開発トンネルとは - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/overview)
   - [トンネルを作成してホストする - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/get-started?tabs=linux)
   - [開発トンネル コマンドライン リファレンス - Microsoft dev tunnels | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/dev-tunnels/cli-commands)
+
+## 追記
+
+- SSL/TLSの自動適用も大きなメリットのひとつで、OAuth/OIDCなどの認証フローや決済系APIなどでは必須。
