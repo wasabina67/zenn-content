@@ -13,4 +13,5 @@ class Test30(unittest.TestCase):
 
 
 if __name__ == "__main__":
+    # python3 -m unittest tests/test_30.py
     unittest.main()
