@@ -3,7 +3,7 @@ title: "Pythonの辞書操作における参照コピーとディープコピー
 emoji: "🐍"
 type: "tech"
 topics: ["python"]
-published: true
+published: false
 published_at: 2025-06-03
 ---
 
