@@ -18,4 +18,4 @@ def r(nums):
 
 
 numbers = [1, 2, 3, 4, 5, 8, 9, 10, 12, 13]
-print(r(numbers))
+print(r(numbers))  # ['1~5', '8~10', '12~13']
