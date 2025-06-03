@@ -5,7 +5,7 @@ import string
 import secrets
 
 
-def gen(length, chars):
+def gen_random(length, chars):
     return ''.join(random.choice(chars) for _ in range(length))
 
 
@@ -14,7 +14,7 @@ def gen_secrets(length, chars):
 
 
 def func_1():
-    return gen(
+    return gen_random(
         20,
         string.digits + string.ascii_lowercase + string.ascii_uppercase
     )
@@ -25,7 +25,7 @@ def func_2():
 
 
 def func_3():
-    return gen(20, string.ascii_letters + string.digits + '_')
+    return gen_random(20, string.ascii_letters + string.digits + '_')
 
 
 def func_4():
@@ -37,7 +37,7 @@ def func_5():
         c for c in string.ascii_letters + string.digits + '_'
         if c not in 'O0l1I'
     )
-    return gen(20, chars)
+    return gen_random(20, chars)
 
 
 if __name__ == '__main__':
