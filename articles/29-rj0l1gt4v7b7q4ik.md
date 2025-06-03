@@ -1,8 +1,8 @@
 ---
-title: ""
-emoji: ""
+title: "Pythonでランダムな文字列を生成する"
+emoji: "🐍"
 type: "tech"
-topics: [""]
+topics: ["python"]
 published: true
 published_at: 2025-06-02
 ---

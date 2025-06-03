@@ -1,8 +1,8 @@
 ---
-title: ""
-emoji: ""
+title: "Pythonのsmtplibでメールを送信する"
+emoji: "🐍"
 type: "tech"
-topics: [""]
+topics: ["python"]
 published: true
 published_at: 2025-06-02
 ---
