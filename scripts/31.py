@@ -7,4 +7,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    from_email, to_email = "test@example.com", "test@example.com"
+    smtp_server, port, password = "", 587, ""
+    main(from_email, to_email, smtp_server, port, password)
