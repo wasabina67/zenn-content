@@ -40,4 +40,4 @@ isig icanon iexten echo echoe echok -echonl -noflsh -xcase -tostop -echoprt echo
 
 ## サンプルコード
 
-https://github.com/wasabina67/zenn-content/blob/46dd96c30beecaeb4fd91a7902ff7fd7871c0738/scripts/28.sh
+https://github.com/wasabina67/zenn-content/blob/main/scripts/28.sh
