@@ -7,4 +7,6 @@ published: true
 published_at: 2025-06-03
 ---
 
-zzzz
+## スニペット
+
+https://github.com/wasabina67/zenn-content/blob/main/scripts/30.py
