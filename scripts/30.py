@@ -17,5 +17,6 @@ def r(nums):
     return result
 
 
-numbers = [1, 2, 3, 4, 5, 8, 9, 10, 12, 13]
-print(r(numbers))  # ['1~5', '8~10', '12~13']
+if __name__ == "__main__":
+    numbers = [1, 2, 3, 4, 5, 8, 9, 10, 12, 13]
+    print(r(numbers))  # ['1~5', '8~10', '12~13']
