@@ -29,12 +29,12 @@ def func_3():
 
 
 def func_4():
-    return gen_secrets(20, string.ascii_letters + string.digits)
+    return gen_secrets(20, string.ascii_letters + string.digits + '_')
 
 
 def func_5():
     chars = ''.join(
-        c for c in string.ascii_letters + string.digits
+        c for c in string.ascii_letters + string.digits + '_'
         if c not in 'O0l1I'
     )
     return gen(20, chars)
