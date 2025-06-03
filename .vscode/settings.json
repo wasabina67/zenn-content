@@ -5,6 +5,7 @@
         "mykey",
         "myvalue",
         "setlocal",
+        "smtplib",
         "urandom"
     ]
 }
