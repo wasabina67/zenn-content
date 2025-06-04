@@ -10,3 +10,5 @@ published_at: 2025-06-04
 ## スニペット
 
 https://github.com/wasabina67/zenn-content/blob/main/scripts/30.py
+
+https://github.com/wasabina67/zenn-content/blob/main/tests/test_30.py
