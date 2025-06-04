@@ -21,7 +21,10 @@ def func_1():
 
 
 def func_2():
-    return hashlib.sha256(os.urandom(32)).hexdigest()[:20]
+    return gen_secrets(
+        20,
+        string.digits + string.ascii_lowercase + string.ascii_uppercase
+    )
 
 
 def func_3():
@@ -40,9 +43,23 @@ def func_5():
     return gen_random(20, chars)
 
 
+def func_6():
+    chars = ''.join(
+        c for c in string.ascii_letters + string.digits + '_'
+        if c not in 'O0l1I'
+    )
+    return gen_secrets(20, chars)
+
+
+def func_7():
+    return hashlib.sha256(os.urandom(32)).hexdigest()[:20]
+
+
 if __name__ == '__main__':
     print(func_1())
     print(func_2())
     print(func_3())
     print(func_4())
     print(func_5())
+    print(func_6())
+    print(func_7())
