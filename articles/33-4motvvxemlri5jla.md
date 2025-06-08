@@ -19,7 +19,7 @@ unzip file.zip
 unzip file.zip -d /path/to/directory
 ```
 
-## 3. 進行状況を表示
+## 3. 詳細情報を表示
 
 ```bash
 unzip -v file.zip
