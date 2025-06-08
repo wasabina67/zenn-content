@@ -1,8 +1,8 @@
 ---
 title: "ActiveReportsについて"
-emoji: ""
+emoji: "📝"
 type: "tech"
-topics: [""]
+topics: ["reports"]
 published: true
 published_at: 2025-06-08
 ---
