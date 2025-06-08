@@ -3,8 +3,8 @@ title: "unzipコマンドのメモ"
 emoji: "🗂️"
 type: "tech"
 topics: ["unzip"]
-published: false
-published_at: 2025-06-01
+published: true
+published_at: 2025-06-08
 ---
 
 ## 1. 現在のディレクトリに解凍
