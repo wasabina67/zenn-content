@@ -1,8 +1,8 @@
 ---
-title: ""
-emoji: ""
+title: "unzipコマンドのメモ"
+emoji: "🗂️"
 type: "tech"
-topics: [""]
+topics: ["unzip"]
 published: false
 published_at: 2025-06-01
 ---
