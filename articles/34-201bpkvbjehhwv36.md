@@ -7,7 +7,7 @@ published: true
 published_at: 2025-06-08
 ---
 
-## ActiveReports
+## ActiveReportsとは
 
 ## ActiveReports for .NET
 
