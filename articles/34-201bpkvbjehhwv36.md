@@ -9,6 +9,8 @@ published_at: 2025-06-08
 
 ## ActiveReportsとは
 
+- 日本仕様の帳票開発に必要な機能を搭載したコンポーネント
+
 ## ActiveReports for .NET
 
 ## ActiveReportsJS
