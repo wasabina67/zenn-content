@@ -15,12 +15,13 @@ published_at: 2025-06-08
 - 帳票デザイナ、帳票エンジン、帳票ビューワ、各種出力形式のサポート
 - ヘルプ、デモ、ナレッジベース、E-mailによる技術サポート
 
+https://developer.mescius.jp/reporting
+
 ## ActiveReports for .NET
 
 ## ActiveReportsJS
 
 ## 参考リンク
 
-- [ActiveReports](https://developer.mescius.jp/reporting)
 - [ActiveReports for .NET](https://developer.mescius.jp/activereports)
 - [ActiveReportsJS](https://developer.mescius.jp/activereportsjs)
