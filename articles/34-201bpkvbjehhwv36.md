@@ -19,7 +19,11 @@ https://developer.mescius.jp/reporting
 
 ## ActiveReports for .NET
 
+https://developer.mescius.jp/activereports
+
 ## ActiveReportsJS
+
+https://developer.mescius.jp/activereportsjs
 
 ## 参考リンク
 
