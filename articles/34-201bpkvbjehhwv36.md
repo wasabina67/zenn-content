@@ -19,9 +19,13 @@ https://developer.mescius.jp/reporting
 
 ## ActiveReports for .NET
 
+- .NET帳票コンポーネント
+
 https://developer.mescius.jp/activereports
 
 ## ActiveReportsJS
+
+- JavaScript帳票ライブラリ
 
 https://developer.mescius.jp/activereportsjs
 
