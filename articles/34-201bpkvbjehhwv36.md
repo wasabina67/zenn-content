@@ -4,7 +4,7 @@ emoji: "📝"
 type: "tech"
 topics: ["reports"]
 published: true
-published_at: 2025-06-08
+published_at: 2025-06-12
 ---
 
 ## ActiveReportsとは
