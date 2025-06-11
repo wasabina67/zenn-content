@@ -39,6 +39,7 @@ https://developer.mescius.jp/activereports/demo
 
 ### MESCIUS.devlog
 
+https://devlog.mescius.jp/category/activereports/
 
 ### CodeZine
 
@@ -66,6 +67,7 @@ https://demo.mescius.jp/activereportsjs/demos/
 
 ### MESCIUS.devlog
 
+https://devlog.mescius.jp/category/activereportsjs/
 
 ### CodeZine
 
