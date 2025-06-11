@@ -32,6 +32,7 @@ https://developer.mescius.jp/activereports
 
 ### デモ
 
+https://developer.mescius.jp/activereports/demo
 
 ### KB
 
@@ -41,7 +42,7 @@ https://developer.mescius.jp/activereports
 
 ### CodeZine
 
-
+https://codezine.jp/article/corner/17
 
 
 ## ActiveReportsJS
@@ -58,7 +59,7 @@ https://developer.mescius.jp/activereportsjs
 
 ### デモ
 
-
+https://demo.mescius.jp/activereportsjs/demos/
 
 ### KB
 
@@ -68,4 +69,4 @@ https://developer.mescius.jp/activereportsjs
 
 ### CodeZine
 
-
+https://codezine.jp/search/activereportsjs
