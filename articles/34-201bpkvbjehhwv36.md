@@ -28,6 +28,8 @@ https://developer.mescius.jp/activereports
 - [クイックスタート](https://docs.mescius.jp/help/activereports-18/#quick-start.html)
 - [ページレポート／RDLレポートのチュートリアル](https://docs.mescius.jp/help/activereports-18/#page-report-or-rdl-report-walkthroughs.html)
 - [セクションレポートのチュートリアル](https://docs.mescius.jp/help/activereports-18/#section-report-walkthroughs.html)
+- [XMLベースレポート（RPX）](https://docs.mescius.jp/help/activereports-18/#ar-wlk-basic-xml-reports.html)
+
 
 
 
