@@ -38,3 +38,12 @@ https://developer.mescius.jp/activereports
 - JavaScript帳票ライブラリ
 
 https://developer.mescius.jp/activereportsjs
+
+### ヘルプ
+
+- [ActiveReportsJSの概要](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Introduction)
+- [ビューワの使用（JavaScript）](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart/QuickStart-Vanilla)
+- [Webデザイナコンポーネントの使用（JavaScript）](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart-ARJS-Designer-Component/QuickStart-Vanilla)
+
+
+
