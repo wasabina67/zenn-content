@@ -28,8 +28,3 @@ https://developer.mescius.jp/activereports
 - JavaScript帳票ライブラリ
 
 https://developer.mescius.jp/activereportsjs
-
-## 参考リンク
-
-- [ActiveReports for .NET](https://developer.mescius.jp/activereports)
-- [ActiveReportsJS](https://developer.mescius.jp/activereportsjs)
