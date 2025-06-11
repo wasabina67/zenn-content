@@ -32,7 +32,7 @@ https://developer.mescius.jp/activereports
 
 ### デモ
 
-https://developer.mescius.jp/activereports/demo
+- [デモアプリケーション](https://developer.mescius.jp/activereports/demo)
 
 ### KB
 
@@ -42,11 +42,11 @@ https://developer.mescius.jp/activereports/demo
 
 ### MESCIUS.devlog
 
-https://devlog.mescius.jp/category/activereports/
+- [ActiveReports](https://devlog.mescius.jp/category/activereports/)
 
 ### CodeZine
 
-https://codezine.jp/article/corner/17
+- [5分でわかるActiveReports帳票](https://codezine.jp/article/corner/17)
 
 
 ## ActiveReportsJS
@@ -63,7 +63,7 @@ https://developer.mescius.jp/activereportsjs
 
 ### デモ
 
-https://demo.mescius.jp/activereportsjs/demos/
+- [デモ](https://demo.mescius.jp/activereportsjs/demos/)
 
 ### KB
 
@@ -73,8 +73,8 @@ https://demo.mescius.jp/activereportsjs/demos/
 
 ### MESCIUS.devlog
 
-https://devlog.mescius.jp/category/activereportsjs/
+- [ActiveReportsJS](https://devlog.mescius.jp/category/activereportsjs/)
 
 ### CodeZine
 
-https://codezine.jp/search/activereportsjs
+- [activereportsjs](https://codezine.jp/search/activereportsjs)
