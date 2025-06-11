@@ -23,6 +23,14 @@ https://developer.mescius.jp/reporting
 
 https://developer.mescius.jp/activereports
 
+### ヘルプ
+
+- [クイックスタート](https://docs.mescius.jp/help/activereports-18/#quick-start.html)
+- [ページレポート／RDLレポートのチュートリアル](https://docs.mescius.jp/help/activereports-18/#page-report-or-rdl-report-walkthroughs.html)
+- [セクションレポートのチュートリアル](https://docs.mescius.jp/help/activereports-18/#section-report-walkthroughs.html)
+
+
+
 ## ActiveReportsJS
 
 - JavaScript帳票ライブラリ
