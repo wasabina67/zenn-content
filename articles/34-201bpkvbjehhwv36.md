@@ -41,9 +41,14 @@ https://developer.mescius.jp/activereports/demo
 
 ## KB
 
-- [ActiveReports for .NET 18.0J](https://support.mescius.jp/hc/ja/categories/9172336363023-ActiveReports-for-NET-18-0J)
-- [技術情報・使用方法](https://support.mescius.jp/hc/ja/sections/9172341253391)
-- [不具合・制限事項](https://support.mescius.jp/hc/ja/sections/9172308316559)
+##### ActiveReports for .NET 18.0J
+https://support.mescius.jp/hc/ja/categories/9172336363023-ActiveReports-for-NET-18-0J
+
+##### 技術情報・使用方法
+https://support.mescius.jp/hc/ja/sections/9172341253391
+
+##### 不具合・制限事項
+https://support.mescius.jp/hc/ja/sections/9172308316559
 
 ## MESCIUS.devlog
 
@@ -76,9 +81,14 @@ https://demo.mescius.jp/activereportsjs/demos/
 
 ## KB
 
-- [ActiveReportsJS](https://support.mescius.jp/hc/ja/categories/360000708915)
-- [技術情報・使用方法](https://support.mescius.jp/hc/ja/sections/360000728056)
-- [不具合・制限事項](https://support.mescius.jp/hc/ja/sections/360000728036)
+##### ActiveReportsJS
+https://support.mescius.jp/hc/ja/categories/360000708915
+
+##### 技術情報・使用方法
+https://support.mescius.jp/hc/ja/sections/360000728056
+
+##### 不具合・制限事項
+https://support.mescius.jp/hc/ja/sections/360000728036
 
 ## MESCIUS.devlog
 
