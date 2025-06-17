@@ -45,6 +45,24 @@ https://developer.mescius.jp/activereports
 
 - レポートの種類
   - https://docs.mescius.jp/help/activereports-18/reporttypes.html
+- プラグインAPIの使用
+  - https://docs.mescius.jp/help/activereports-18/#web-designer-plugins-api.html
+- エクスポート
+  - https://docs.mescius.jp/help/activereports-18/#exporting.html
+- PDFエクスポート
+  - https://docs.mescius.jp/help/activereports-18/#pdf-export.html
+- Textエクスポート
+  - https://docs.mescius.jp/help/activereports-18/#text.html
+- PDFへの描画
+  - https://docs.mescius.jp/help/activereports-18/#rendering-to-pdf.html
+- 共通フィールド
+  - https://docs.mescius.jp/help/activereports-18/#common-values.html
+- OverflowPlaceHolder（ページレポート）
+  - https://docs.mescius.jp/help/activereports-18/#overflow-place-holder.html
+- 複数のページでデータのオーバーフロー（ページレポートのみ）
+  - https://docs.mescius.jp/help/activereports-18/#overflow-data-in-multiple-pages.html
+- レイヤー
+  - https://docs.mescius.jp/help/activereports-18/#layers.html
 
 ## デモ
 
