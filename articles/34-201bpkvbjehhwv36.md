@@ -21,10 +21,8 @@ https://developer.mescius.jp/download/update
 
 ## ドキュメント
 
-- PDF帳票ツール選定ガイド
-  - https://developer.mescius.jp/pdf-report-products
-- ActiveReports12_３つのレポート形式
-  - https://download.mescius.jp/PDF/article/threedesign-whitepaper.pdf
+- [PDF帳票ツール選定ガイド](https://developer.mescius.jp/pdf-report-products)
+- [ActiveReports12_３つのレポート形式](https://download.mescius.jp/PDF/article/threedesign-whitepaper.pdf)
 
 # ActiveReports for .NET
 
