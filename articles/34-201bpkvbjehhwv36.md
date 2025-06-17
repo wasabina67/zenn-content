@@ -37,7 +37,7 @@ https://docs.mescius.jp/help/activereports-18/#ar-wlk-basic-xml-reports.html
 
 ## デモ
 
-- [デモアプリケーション](https://developer.mescius.jp/activereports/demo)
+https://developer.mescius.jp/activereports/demo
 
 ## KB
 
