@@ -58,11 +58,8 @@ https://developer.mescius.jp/activereports/demo
   - https://support.mescius.jp/hc/ja/sections/9172341253391
 - 不具合・制限事項
   - https://support.mescius.jp/hc/ja/sections/9172308316559
-
-### ピックアップ
-
-- Example Domain
-  - https://example.com/
+- ピックアップ
+  - [Example Domain](https://example.com/)
 
 ## MESCIUS.devlog
 
@@ -70,7 +67,7 @@ https://devlog.mescius.jp/category/activereports/
 
 ## CodeZine
 
-##### 5分でわかるActiveReports帳票
+5分でわかるActiveReports帳票
 
 https://codezine.jp/article/corner/17
 
@@ -104,11 +101,8 @@ https://demo.mescius.jp/activereportsjs/demos/
   - https://support.mescius.jp/hc/ja/sections/360000728056
 - 不具合・制限事項
   - https://support.mescius.jp/hc/ja/sections/360000728036
-
-### ピックアップ
-
-- PDFエクスポートの制限事項
-  - https://support.mescius.jp/hc/ja/articles/8690407433871
+- ピックアップ
+  - [PDFエクスポートの制限事項](https://support.mescius.jp/hc/ja/articles/8690407433871)
 
 ## MESCIUS.devlog
 
@@ -116,6 +110,6 @@ https://devlog.mescius.jp/category/activereportsjs/
 
 ## CodeZine
 
-##### activereportsjs
+activereportsjs
 
 https://codezine.jp/search/activereportsjs
