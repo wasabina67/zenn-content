@@ -41,7 +41,7 @@ https://developer.mescius.jp/activereports
 - XMLベースレポート（RPX）
   - https://docs.mescius.jp/help/activereports-18/#ar-wlk-basic-xml-reports.html
 
-### ピックアップ
+## ピックアップ
 
 - レポートの種類
   - https://docs.mescius.jp/help/activereports-18/reporttypes.html
@@ -84,7 +84,7 @@ https://developer.mescius.jp/activereportsjs
 - Webデザイナコンポーネントの使用（JavaScript）
   - https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart-ARJS-Designer-Component/QuickStart-Vanilla
 
-### ピックアップ
+## ピックアップ
 
 - Example Domain
   - https://example.com/
