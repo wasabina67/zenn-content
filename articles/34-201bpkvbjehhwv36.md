@@ -56,7 +56,7 @@ https://developer.mescius.jp/activereports
 ## KB
 
 - ActiveReports for .NET 18.0J
-  - https://support.mescius.jp/hc/ja/categories/9172336363023-ActiveReports-for-NET-18-0J
+  - https://support.mescius.jp/hc/ja/categories/9172336363023
 - 技術情報・使用方法
   - https://support.mescius.jp/hc/ja/sections/9172341253391
 - 不具合・制限事項
