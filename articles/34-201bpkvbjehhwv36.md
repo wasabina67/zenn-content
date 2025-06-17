@@ -35,7 +35,7 @@ https://developer.mescius.jp/activereports
 - [セクションレポートのチュートリアル](https://docs.mescius.jp/help/activereports-18/#section-report-walkthroughs.html)
 - [XMLベースレポート（RPX）](https://docs.mescius.jp/help/activereports-18/#ar-wlk-basic-xml-reports.html)
 
-## ピックアップ
+### ピックアップ
 
 - [変更点](https://docs.mescius.jp/help/activereports-18/#breaking-changes.html)
 - [レポートの種類](https://docs.mescius.jp/help/activereports-18/#reporttypes.html)
@@ -59,7 +59,7 @@ https://developer.mescius.jp/activereports
 - [技術情報・使用方法](https://support.mescius.jp/hc/ja/sections/9172341253391)
 - [不具合・制限事項](https://support.mescius.jp/hc/ja/sections/9172308316559)
 
-## ピックアップ
+### ピックアップ
 
 - [旧バージョンとの描画方法の差異について](https://support.mescius.jp/hc/ja/articles/10734123894415)
 
@@ -78,7 +78,7 @@ https://developer.mescius.jp/activereportsjs
 - [ビューワの使用（JavaScript）](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart/QuickStart-Vanilla)
 - [Webデザイナコンポーネントの使用（JavaScript）](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart-ARJS-Designer-Component/QuickStart-Vanilla)
 
-## ピックアップ
+### ピックアップ
 
 - [更新履歴](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Update-History)
 
@@ -92,7 +92,7 @@ https://developer.mescius.jp/activereportsjs
 - [技術情報・使用方法](https://support.mescius.jp/hc/ja/sections/360000728056)
 - [不具合・制限事項](https://support.mescius.jp/hc/ja/sections/360000728036)
 
-## ピックアップ
+### ピックアップ
 
 - [PDFエクスポートの制限事項](https://support.mescius.jp/hc/ja/articles/8690407433871)
 
