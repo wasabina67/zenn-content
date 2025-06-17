@@ -17,6 +17,8 @@ published_at: 2025-06-12
 
 https://developer.mescius.jp/reporting
 
+https://developer.mescius.jp/download/update
+
 # ActiveReports for .NET
 
 https://developer.mescius.jp/activereports
