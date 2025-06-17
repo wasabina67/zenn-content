@@ -17,9 +17,14 @@ published_at: 2025-06-12
 
 https://developer.mescius.jp/reporting
 
-# ActiveReports for .NET
+https://developer.mescius.jp/download/update
 
-- .NET帳票コンポーネント
+## ドキュメント
+
+- [PDF帳票ツール選定ガイド](https://developer.mescius.jp/pdf-report-products)
+- [ActiveReports12_３つのレポート形式](https://download.mescius.jp/PDF/article/threedesign-whitepaper.pdf)
+
+# ActiveReports for .NET
 
 https://developer.mescius.jp/activereports
 
@@ -30,28 +35,40 @@ https://developer.mescius.jp/activereports
 - [セクションレポートのチュートリアル](https://docs.mescius.jp/help/activereports-18/#section-report-walkthroughs.html)
 - [XMLベースレポート（RPX）](https://docs.mescius.jp/help/activereports-18/#ar-wlk-basic-xml-reports.html)
 
+### ピックアップ
+
+- [変更点](https://docs.mescius.jp/help/activereports-18/#breaking-changes.html)
+- [レポートの種類](https://docs.mescius.jp/help/activereports-18/#reporttypes.html)
+- [プラグインAPIの使用](https://docs.mescius.jp/help/activereports-18/#web-designer-plugins-api.html)
+- [エクスポート](https://docs.mescius.jp/help/activereports-18/#exporting.html)
+- [PDFエクスポート](https://docs.mescius.jp/help/activereports-18/#pdf-export.html)
+- [Textエクスポート](https://docs.mescius.jp/help/activereports-18/#text.html)
+- [PDFへの描画](https://docs.mescius.jp/help/activereports-18/#rendering-to-pdf.html)
+- [共通フィールド](https://docs.mescius.jp/help/activereports-18/#common-values.html)
+- [OverflowPlaceHolder（ページレポート）](https://docs.mescius.jp/help/activereports-18/#overflow-place-holder.html)
+- [複数のページでデータのオーバーフロー（ページレポートのみ）](https://docs.mescius.jp/help/activereports-18/#overflow-data-in-multiple-pages.html)
+- [レイヤー](https://docs.mescius.jp/help/activereports-18/#layers.html)
+
 ## デモ
 
 - [デモアプリケーション](https://developer.mescius.jp/activereports/demo)
 
 ## KB
 
-- [ActiveReports for .NET 18.0J](https://support.mescius.jp/hc/ja/categories/9172336363023-ActiveReports-for-NET-18-0J)
+- [ActiveReports for .NET 18.0J](https://support.mescius.jp/hc/ja/categories/9172336363023)
 - [技術情報・使用方法](https://support.mescius.jp/hc/ja/sections/9172341253391)
 - [不具合・制限事項](https://support.mescius.jp/hc/ja/sections/9172308316559)
 
-## MESCIUS.devlog
+### ピックアップ
 
-- [ActiveReports](https://devlog.mescius.jp/category/activereports/)
+- [旧バージョンとの描画方法の差異について](https://support.mescius.jp/hc/ja/articles/10734123894415)
 
-## CodeZine
+## ドキュメント
 
-- [5分でわかるActiveReports帳票](https://codezine.jp/article/corner/17)
-
+- [MESCIUS.devlog](https://devlog.mescius.jp/category/activereports/)
+- [CodeZine | 5分でわかるActiveReports帳票](https://codezine.jp/article/corner/17)
 
 # ActiveReportsJS
-
-- JavaScript帳票ライブラリ
 
 https://developer.mescius.jp/activereportsjs
 
@@ -60,6 +77,10 @@ https://developer.mescius.jp/activereportsjs
 - [ActiveReportsJSの概要](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Introduction)
 - [ビューワの使用（JavaScript）](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart/QuickStart-Vanilla)
 - [Webデザイナコンポーネントの使用（JavaScript）](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart-ARJS-Designer-Component/QuickStart-Vanilla)
+
+### ピックアップ
+
+- [更新履歴](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Update-History)
 
 ## デモ
 
@@ -71,10 +92,11 @@ https://developer.mescius.jp/activereportsjs
 - [技術情報・使用方法](https://support.mescius.jp/hc/ja/sections/360000728056)
 - [不具合・制限事項](https://support.mescius.jp/hc/ja/sections/360000728036)
 
-## MESCIUS.devlog
+### ピックアップ
 
-- [ActiveReportsJS](https://devlog.mescius.jp/category/activereportsjs/)
+- [PDFエクスポートの制限事項](https://support.mescius.jp/hc/ja/articles/8690407433871)
 
-## CodeZine
+## ドキュメント
 
-- [activereportsjs](https://codezine.jp/search/activereportsjs)
+- [MESCIUS.devlog](https://devlog.mescius.jp/category/activereportsjs/)
+- [CodeZine | activereportsjs](https://codezine.jp/search/activereportsjs)
