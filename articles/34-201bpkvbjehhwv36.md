@@ -43,8 +43,10 @@ https://developer.mescius.jp/activereports
 
 ## ピックアップ
 
+- 変更点
+  - https://docs.mescius.jp/help/activereports-18/#breaking-changes.html
 - レポートの種類
-  - https://docs.mescius.jp/help/activereports-18/reporttypes.html
+  - https://docs.mescius.jp/help/activereports-18/#reporttypes.html
 - プラグインAPIの使用
   - https://docs.mescius.jp/help/activereports-18/#web-designer-plugins-api.html
 - エクスポート
@@ -77,7 +79,7 @@ https://developer.mescius.jp/activereports/demo
 - 不具合・制限事項
   - https://support.mescius.jp/hc/ja/sections/9172308316559
 - ピックアップ
-  - [Example Domain](https://example.com/)
+  - [旧バージョンとの描画方法の差異について](https://support.mescius.jp/hc/ja/articles/10734123894415)
 
 ## MESCIUS.devlog
 
@@ -104,8 +106,8 @@ https://developer.mescius.jp/activereportsjs
 
 ## ピックアップ
 
-- Example Domain
-  - https://example.com/
+- 更新履歴
+  - https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Update-History
 
 ## デモ
 
