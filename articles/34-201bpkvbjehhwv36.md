@@ -56,7 +56,7 @@ https://devlog.mescius.jp/category/activereports/
 
 ## CodeZine
 
-5分でわかるActiveReports帳票
+##### 5分でわかるActiveReports帳票
 
 https://codezine.jp/article/corner/17
 
@@ -96,6 +96,6 @@ https://devlog.mescius.jp/category/activereportsjs/
 
 ## CodeZine
 
-activereportsjs
+##### activereportsjs
 
 https://codezine.jp/search/activereportsjs
