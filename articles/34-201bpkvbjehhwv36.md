@@ -60,13 +60,18 @@ https://developer.mescius.jp/activereportsjs
 
 ## ヘルプ
 
-- [ActiveReportsJSの概要](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Introduction)
-- [ビューワの使用（JavaScript）](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart/QuickStart-Vanilla)
-- [Webデザイナコンポーネントの使用（JavaScript）](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart-ARJS-Designer-Component/QuickStart-Vanilla)
+##### ActiveReportsJSの概要
+https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Introduction
+
+##### ビューワの使用（JavaScript）
+https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart/QuickStart-Vanilla
+
+##### Webデザイナコンポーネントの使用（JavaScript）
+https://demo.mescius.jp/activereportsjs/docs/GettingStarted/quickstart/QuickStart-ARJS-Designer-Component/QuickStart-Vanilla
 
 ## デモ
 
-- [デモ](https://demo.mescius.jp/activereportsjs/demos/)
+https://demo.mescius.jp/activereportsjs/demos/
 
 ## KB
 
