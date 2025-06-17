@@ -55,12 +55,9 @@ https://developer.mescius.jp/activereports
 
 ## KB
 
-- ActiveReports for .NET 18.0J
-  - https://support.mescius.jp/hc/ja/categories/9172336363023
-- 技術情報・使用方法
-  - https://support.mescius.jp/hc/ja/sections/9172341253391
-- 不具合・制限事項
-  - https://support.mescius.jp/hc/ja/sections/9172308316559
+- [ActiveReports for .NET 18.0J](https://support.mescius.jp/hc/ja/categories/9172336363023)
+- [技術情報・使用方法](https://support.mescius.jp/hc/ja/sections/9172341253391)
+- [不具合・制限事項](https://support.mescius.jp/hc/ja/sections/9172308316559)
 - ピックアップ
   - [旧バージョンとの描画方法の差異について](https://support.mescius.jp/hc/ja/articles/10734123894415)
 
@@ -89,12 +86,9 @@ https://developer.mescius.jp/activereportsjs
 
 ## KB
 
-- ActiveReportsJS
-  - https://support.mescius.jp/hc/ja/categories/360000708915
-- 技術情報・使用方法
-  - https://support.mescius.jp/hc/ja/sections/360000728056
-- 不具合・制限事項
-  - https://support.mescius.jp/hc/ja/sections/360000728036
+- [ActiveReportsJS](https://support.mescius.jp/hc/ja/categories/360000708915)
+- [技術情報・使用方法](https://support.mescius.jp/hc/ja/sections/360000728056)
+- [不具合・制限事項](https://support.mescius.jp/hc/ja/sections/360000728036)
 - ピックアップ
   - [PDFエクスポートの制限事項](https://support.mescius.jp/hc/ja/articles/8690407433871)
 
