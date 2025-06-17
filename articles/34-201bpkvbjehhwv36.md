@@ -55,7 +55,6 @@ https://devlog.mescius.jp/category/activereports/
 
 https://codezine.jp/article/corner/17
 
-
 # ActiveReportsJS
 
 https://developer.mescius.jp/activereportsjs
