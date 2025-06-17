@@ -41,8 +41,7 @@ https://developer.mescius.jp/activereports
 
 ## ピックアップ
 
-- 変更点
-  - https://docs.mescius.jp/help/activereports-18/#breaking-changes.html
+- [変更点](https://docs.mescius.jp/help/activereports-18/#breaking-changes.html)
 - レポートの種類
   - https://docs.mescius.jp/help/activereports-18/#reporttypes.html
 - プラグインAPIの使用
@@ -99,8 +98,7 @@ https://developer.mescius.jp/activereportsjs
 
 ## ピックアップ
 
-- 更新履歴
-  - https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Update-History
+- [更新履歴](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Update-History)
 
 ## デモ
 
