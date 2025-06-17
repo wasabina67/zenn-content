@@ -68,7 +68,7 @@ https://developer.mescius.jp/activereports
 
 ## デモ
 
-https://developer.mescius.jp/activereports/demo
+- [デモアプリケーション](https://developer.mescius.jp/activereports/demo)
 
 ## KB
 
@@ -106,7 +106,7 @@ https://developer.mescius.jp/activereportsjs
 
 ## デモ
 
-https://demo.mescius.jp/activereportsjs/demos/
+- [デモ](https://demo.mescius.jp/activereportsjs/demos/)
 
 ## KB
 
