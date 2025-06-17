@@ -81,15 +81,10 @@ https://developer.mescius.jp/activereports/demo
 - ピックアップ
   - [旧バージョンとの描画方法の差異について](https://support.mescius.jp/hc/ja/articles/10734123894415)
 
-## MESCIUS.devlog
+## ドキュメント
 
-https://devlog.mescius.jp/category/activereports/
-
-## CodeZine
-
-5分でわかるActiveReports帳票
-
-https://codezine.jp/article/corner/17
+- [MESCIUS.devlog](https://devlog.mescius.jp/category/activereports/)
+- [CodeZine | 5分でわかるActiveReports帳票](https://codezine.jp/article/corner/17)
 
 # ActiveReportsJS
 
@@ -124,12 +119,7 @@ https://demo.mescius.jp/activereportsjs/demos/
 - ピックアップ
   - [PDFエクスポートの制限事項](https://support.mescius.jp/hc/ja/articles/8690407433871)
 
-## MESCIUS.devlog
+## ドキュメント
 
-https://devlog.mescius.jp/category/activereportsjs/
-
-## CodeZine
-
-activereportsjs
-
-https://codezine.jp/search/activereportsjs
+- [MESCIUS.devlog](https://devlog.mescius.jp/category/activereportsjs/)
+- [CodeZine | activereportsjs](https://codezine.jp/search/activereportsjs)
