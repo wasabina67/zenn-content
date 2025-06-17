@@ -47,11 +47,13 @@ https://developer.mescius.jp/activereports/demo
 
 ## MESCIUS.devlog
 
-- [ActiveReports](https://devlog.mescius.jp/category/activereports/)
+https://devlog.mescius.jp/category/activereports/
 
 ## CodeZine
 
-- [5分でわかるActiveReports帳票](https://codezine.jp/article/corner/17)
+5分でわかるActiveReports帳票
+
+https://codezine.jp/article/corner/17
 
 
 # ActiveReportsJS
@@ -81,8 +83,10 @@ https://demo.mescius.jp/activereportsjs/demos/
 
 ## MESCIUS.devlog
 
-- [ActiveReportsJS](https://devlog.mescius.jp/category/activereportsjs/)
+https://devlog.mescius.jp/category/activereportsjs/
 
 ## CodeZine
 
-- [activereportsjs](https://codezine.jp/search/activereportsjs)
+activereportsjs
+
+https://codezine.jp/search/activereportsjs
