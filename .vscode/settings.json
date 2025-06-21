@@ -3,11 +3,13 @@
         "activereportsjs",
         "deepcopy",
         "devlog",
+        "googlecalendar",
         "localdatetime",
         "MESCIUS",
         "mycounter",
         "mykey",
         "myvalue",
+        "nspady",
         "setlocal",
         "smtplib",
         "urandom"
