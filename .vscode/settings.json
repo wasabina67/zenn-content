@@ -9,6 +9,7 @@
         "mycounter",
         "mykey",
         "myvalue",
+        "nspady",
         "setlocal",
         "smtplib",
         "urandom"
