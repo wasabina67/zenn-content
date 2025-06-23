@@ -19,6 +19,8 @@ https://developer.mescius.jp/reporting
 
 https://developer.mescius.jp/download/update
 
+https://www.nuget.org/profiles/Mescius
+
 ## ドキュメント
 
 - [PDF帳票ツール選定ガイド](https://developer.mescius.jp/pdf-report-products)
