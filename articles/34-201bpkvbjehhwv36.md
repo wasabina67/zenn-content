@@ -21,6 +21,10 @@ https://developer.mescius.jp/download/update
 
 https://www.nuget.org/profiles/Mescius
 
+https://www.npmjs.com/~grapecity
+
+https://www.npmjs.com/~mescius
+
 ## ドキュメント
 
 - [PDF帳票ツール選定ガイド](https://developer.mescius.jp/pdf-report-products)
