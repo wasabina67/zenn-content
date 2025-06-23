@@ -119,6 +119,4 @@ https://developer.mescius.jp/activereportsjs
 
 ## npm
 
-https://www.npmjs.com/package/@grapecity/activereports
-
-https://www.npmjs.com/package/@mescius/activereportsjs
+WIP
