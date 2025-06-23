@@ -70,6 +70,10 @@ https://developer.mescius.jp/activereports
 - [MESCIUS.devlog](https://devlog.mescius.jp/category/activereports/)
 - [CodeZine | 5分でわかるActiveReports帳票](https://codezine.jp/article/corner/17)
 
+## nuget
+
+https://www.nuget.org/packages?q=Tags%3A%22ActiveReports%22
+
 ## npm
 
 WIP
