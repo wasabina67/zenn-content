@@ -19,6 +19,12 @@ https://developer.mescius.jp/reporting
 
 https://developer.mescius.jp/download/update
 
+https://www.nuget.org/profiles/Mescius
+
+https://www.npmjs.com/~grapecity
+
+https://www.npmjs.com/~mescius
+
 ## ドキュメント
 
 - [PDF帳票ツール選定ガイド](https://developer.mescius.jp/pdf-report-products)
@@ -68,6 +74,14 @@ https://developer.mescius.jp/activereports
 - [MESCIUS.devlog](https://devlog.mescius.jp/category/activereports/)
 - [CodeZine | 5分でわかるActiveReports帳票](https://codezine.jp/article/corner/17)
 
+## nuget
+
+https://www.nuget.org/packages?q=Tags%3A%22ActiveReports%22
+
+## npm
+
+WIP
+
 # ActiveReportsJS
 
 https://developer.mescius.jp/activereportsjs
@@ -81,6 +95,8 @@ https://developer.mescius.jp/activereportsjs
 ### ピックアップ
 
 - [更新履歴](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Update-History)
+- [レポートパーツ](https://demo.mescius.jp/activereportsjs/docs/ReportAuthorGuide/report-item-libraries)
+- [マスターレポート](https://demo.mescius.jp/activereportsjs/docs/ReportAuthorGuide/master-reports)
 
 ## デモ
 
@@ -100,3 +116,7 @@ https://developer.mescius.jp/activereportsjs
 
 - [MESCIUS.devlog](https://devlog.mescius.jp/category/activereportsjs/)
 - [CodeZine | activereportsjs](https://codezine.jp/search/activereportsjs)
+
+## npm
+
+WIP
