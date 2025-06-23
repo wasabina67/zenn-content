@@ -95,6 +95,8 @@ https://developer.mescius.jp/activereportsjs
 ### ピックアップ
 
 - [更新履歴](https://demo.mescius.jp/activereportsjs/docs/GettingStarted/Update-History)
+- [レポートパーツ](https://demo.mescius.jp/activereportsjs/docs/ReportAuthorGuide/report-item-libraries)
+- [マスターレポート](https://demo.mescius.jp/activereportsjs/docs/ReportAuthorGuide/master-reports)
 
 ## デモ
 
