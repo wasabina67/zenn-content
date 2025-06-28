@@ -19,11 +19,11 @@ https://developer.mescius.jp/reporting
 
 https://developer.mescius.jp/download/update
 
-https://www.nuget.org/profiles/Mescius
+## リリース
 
-https://www.npmjs.com/~grapecity
-
-https://www.npmjs.com/~mescius
+- [NuGet Gallery | Mescius](https://www.nuget.org/profiles/Mescius)
+- [GrapeCity | npm | Profile](https://www.npmjs.com/~grapecity)
+- [Mescius | npm | Profile](https://www.npmjs.com/~mescius)
 
 ## ドキュメント
 
