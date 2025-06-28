@@ -57,7 +57,7 @@ https://developer.mescius.jp/activereports
 - [レイヤー](https://docs.mescius.jp/help/activereports-18/#layers.html)
 - [印刷機能によるPDFの出力について](https://support.mescius.jp/hc/ja/articles/10263447069071)
 
-#### aaaa
+#### 外字、IVS
 
 - [外字の出力に対応していますか？](https://support.mescius.jp/hc/ja/articles/9174993183503)
 - [IVS（Ideographic Variation Sequence）文字とは](https://support.mescius.jp/hc/ja/articles/4499192463887)
