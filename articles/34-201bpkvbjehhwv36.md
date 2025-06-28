@@ -29,6 +29,7 @@ https://www.npmjs.com/~mescius
 
 - [PDF帳票ツール選定ガイド](https://developer.mescius.jp/pdf-report-products)
 - [ActiveReports12_３つのレポート形式](https://download.mescius.jp/PDF/article/threedesign-whitepaper.pdf)
+- [Professionalエディション専用の機能](https://developer.mescius.jp/activereports/spec)
 
 # ActiveReports for .NET
 
