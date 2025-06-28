@@ -81,7 +81,8 @@ https://www.nuget.org/packages?q=Tags%3A%22ActiveReports%22
 
 ## npm
 
-WIP
+- [@mescius/activereportsnet-designer](https://www.npmjs.com/package/@mescius/activereportsnet-designer)
+- [@mescius/activereportsnet-viewer](https://www.npmjs.com/package/@mescius/activereportsnet-viewer)
 
 # ActiveReportsJS
 
@@ -120,4 +121,4 @@ https://developer.mescius.jp/activereportsjs
 
 ## npm
 
-WIP
+- [@mescius/activereportsjs](https://www.npmjs.com/package/@mescius/activereportsjs)
