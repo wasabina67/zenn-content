@@ -19,16 +19,17 @@ https://developer.mescius.jp/reporting
 
 https://developer.mescius.jp/download/update
 
-https://www.nuget.org/profiles/Mescius
+## リリース
 
-https://www.npmjs.com/~grapecity
-
-https://www.npmjs.com/~mescius
+- [NuGet Gallery | Mescius](https://www.nuget.org/profiles/Mescius)
+- [GrapeCity | npm | Profile](https://www.npmjs.com/~grapecity)
+- [Mescius | npm | Profile](https://www.npmjs.com/~mescius)
 
 ## ドキュメント
 
 - [PDF帳票ツール選定ガイド](https://developer.mescius.jp/pdf-report-products)
 - [ActiveReports12_３つのレポート形式](https://download.mescius.jp/PDF/article/threedesign-whitepaper.pdf)
+- [Professionalエディション専用の機能](https://developer.mescius.jp/activereports/spec)
 
 # ActiveReports for .NET
 
@@ -54,6 +55,16 @@ https://developer.mescius.jp/activereports
 - [OverflowPlaceHolder（ページレポート）](https://docs.mescius.jp/help/activereports-18/#overflow-place-holder.html)
 - [複数のページでデータのオーバーフロー（ページレポートのみ）](https://docs.mescius.jp/help/activereports-18/#overflow-data-in-multiple-pages.html)
 - [レイヤー](https://docs.mescius.jp/help/activereports-18/#layers.html)
+- [印刷機能によるPDFの出力について](https://support.mescius.jp/hc/ja/articles/10263447069071)
+
+#### 外字、IVS
+
+- [外字の出力に対応していますか？](https://support.mescius.jp/hc/ja/articles/9174993183503)
+- [IVS（Ideographic Variation Sequence）文字とは](https://support.mescius.jp/hc/ja/articles/4499192463887)
+- [IVSの字形がフォントによって異なる場合がある](https://support.mescius.jp/hc/ja/articles/9175056954511)
+- [PDFエクスポートのProfessionalエディション限定機能について](https://support.mescius.jp/hc/ja/articles/9175015789711)
+- [Unicode IVS/IVDについて](https://moji.or.jp/mojikiban/aboutivs/)
+- [私用面 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A7%81%E7%94%A8%E9%9D%A2)
 
 ## デモ
 
@@ -80,7 +91,8 @@ https://www.nuget.org/packages?q=Tags%3A%22ActiveReports%22
 
 ## npm
 
-WIP
+- [@mescius/activereportsnet-designer](https://www.npmjs.com/package/@mescius/activereportsnet-designer)
+- [@mescius/activereportsnet-viewer](https://www.npmjs.com/package/@mescius/activereportsnet-viewer)
 
 # ActiveReportsJS
 
@@ -119,4 +131,4 @@ https://developer.mescius.jp/activereportsjs
 
 ## npm
 
-WIP
+- [@mescius/activereportsjs](https://www.npmjs.com/package/@mescius/activereportsjs)
