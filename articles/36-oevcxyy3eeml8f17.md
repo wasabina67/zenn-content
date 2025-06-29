@@ -10,13 +10,14 @@ published_at: 2025-06-29
 ## セッション管理
 
 ```bash
-# 新しいセッションを作成
 tmux new -s mysession
+```
 
-# セッション一覧を表示
+```bash
 tmux ls
+```
 
-# セッションに再接続
+```bash
 tmux attach -t mysession
 ```
 
