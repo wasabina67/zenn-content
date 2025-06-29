@@ -20,3 +20,17 @@ published_at: 2025-06-29
 - ウィンドウ一覧表示：`w`
 - 一時離脱：`d`
 - 再接続：`tmux attach`
+
+## よく使うもの
+
+```bash
+tmux new -s mysession
+```
+
+```bash
+tmux ls
+```
+
+```bash
+tmux attach -t mysession
+```
