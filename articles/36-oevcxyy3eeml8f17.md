@@ -1,8 +1,8 @@
 ---
 title: ""
-emoji: ""
+emoji: "🪟"
 type: "tech"
-topics: [""]
+topics: ["tmux"]
 published: true
 published_at: 2025-06-29
 ---
