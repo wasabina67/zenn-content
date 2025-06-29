@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "tmuxコマンドについて"
 emoji: "🪟"
 type: "tech"
 topics: ["tmux"]
