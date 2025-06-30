@@ -80,6 +80,15 @@ https://developer.mescius.jp/activereports
 - [旧バージョンとの描画方法の差異について](https://support.mescius.jp/hc/ja/articles/10734123894415)
 - [印刷機能によるPDFの出力について](https://support.mescius.jp/hc/ja/articles/10263447069071)
 
+#### 外字、IVS
+
+- [外字の出力に対応していますか？](https://support.mescius.jp/hc/ja/articles/9174993183503)
+- [IVS（Ideographic Variation Sequence）文字とは](https://support.mescius.jp/hc/ja/articles/4499192463887)
+- [IVSの字形がフォントによって異なる場合がある](https://support.mescius.jp/hc/ja/articles/9175056954511)
+- [PDFエクスポートのProfessionalエディション限定機能について](https://support.mescius.jp/hc/ja/articles/9175015789711)
+- [Unicode IVS/IVDについて](https://moji.or.jp/mojikiban/aboutivs/)
+- [私用面 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A7%81%E7%94%A8%E9%9D%A2)
+
 ## ドキュメント
 
 - [MESCIUS.devlog](https://devlog.mescius.jp/category/activereports/)
