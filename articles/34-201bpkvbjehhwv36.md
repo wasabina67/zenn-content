@@ -55,7 +55,6 @@ https://developer.mescius.jp/activereports
 - [OverflowPlaceHolder（ページレポート）](https://docs.mescius.jp/help/activereports-18/#overflow-place-holder.html)
 - [複数のページでデータのオーバーフロー（ページレポートのみ）](https://docs.mescius.jp/help/activereports-18/#overflow-data-in-multiple-pages.html)
 - [レイヤー](https://docs.mescius.jp/help/activereports-18/#layers.html)
-- [印刷機能によるPDFの出力について](https://support.mescius.jp/hc/ja/articles/10263447069071)
 
 #### 外字、IVS
 
@@ -79,6 +78,7 @@ https://developer.mescius.jp/activereports
 ### ピックアップ
 
 - [旧バージョンとの描画方法の差異について](https://support.mescius.jp/hc/ja/articles/10734123894415)
+- [印刷機能によるPDFの出力について](https://support.mescius.jp/hc/ja/articles/10263447069071)
 
 ## ドキュメント
 
