@@ -56,15 +56,6 @@ https://developer.mescius.jp/activereports
 - [複数のページでデータのオーバーフロー（ページレポートのみ）](https://docs.mescius.jp/help/activereports-18/#overflow-data-in-multiple-pages.html)
 - [レイヤー](https://docs.mescius.jp/help/activereports-18/#layers.html)
 
-#### 外字、IVS
-
-- [外字の出力に対応していますか？](https://support.mescius.jp/hc/ja/articles/9174993183503)
-- [IVS（Ideographic Variation Sequence）文字とは](https://support.mescius.jp/hc/ja/articles/4499192463887)
-- [IVSの字形がフォントによって異なる場合がある](https://support.mescius.jp/hc/ja/articles/9175056954511)
-- [PDFエクスポートのProfessionalエディション限定機能について](https://support.mescius.jp/hc/ja/articles/9175015789711)
-- [Unicode IVS/IVDについて](https://moji.or.jp/mojikiban/aboutivs/)
-- [私用面 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A7%81%E7%94%A8%E9%9D%A2)
-
 ## デモ
 
 - [デモアプリケーション](https://developer.mescius.jp/activereports/demo)
