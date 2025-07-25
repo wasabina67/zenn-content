@@ -29,6 +29,12 @@ npx zenn preview
   - Published: 36
   - Unpublished: 0
 
+#### 👇  記事を作成する
+
+```bash
+bash create_article.sh
+```
+
 #### 👇  記事をカウントする
 
 ```bash
