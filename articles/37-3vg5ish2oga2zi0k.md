@@ -1,9 +1,9 @@
 ---
-title: ""
-emoji: ""
+title: "WSL(Ubuntu)でVSCode/Cursorをaaaaaaaa"
+emoji: "⚙️"
 type: "tech"
-topics: [""]
-published: false
+topics: ["vscode", "cursor"]
+published: true
 published_at: 2025-07-25
 ---
 
