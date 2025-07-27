@@ -1,5 +1,5 @@
 ---
-title: "WSL(Ubuntu)でVSCode/Cursorのpathを整理する"
+title: "WSL(Ubuntu)でVSCode/Cursorのpathを確認する"
 emoji: "⚙️"
 type: "tech"
 topics: ["vscode", "cursor"]
@@ -42,3 +42,13 @@ $ which code
 ```
 
 それぞれ、実行権限を付与する
+
+## 確認
+
+```bash
+type -a cursor
+```
+
+```bash
+type -a code
+```
