@@ -1,5 +1,5 @@
 ---
-title: "WSL(Ubuntu)でVSCode/Cursorのpathを確認する"
+title: "WSL(Ubuntu)でVSCode/Cursorのpathを整理する"
 emoji: "⚙️"
 type: "tech"
 topics: ["vscode", "cursor"]
@@ -20,12 +20,11 @@ $ which code
 
 `codeコマンド` → 従来通り、VSCodeを開く
 `cursorコマンド` → Cursorを開く
-
 ようにする
 
 ## `/usr/local/bin`にスクリプトを置く
 
-**cursor**
+### cursor
 
 ```bash
 #!/bin/bash
@@ -33,7 +32,7 @@ $ which code
 "/mnt/c/Users/wasab/AppData/Local/Programs/cursor/resources/app/bin/cursor" "$@"
 ```
 
-**code**
+### code
 
 ```bash
 #!/bin/bash
@@ -41,7 +40,7 @@ $ which code
 "/mnt/c/Users/wasab/AppData/Local/Programs/Microsoft VS Code/bin/code" "$@"
 ```
 
-それぞれ、実行権限を付与する
+それぞれに実行権限を付与する
 
 ## 確認
 
