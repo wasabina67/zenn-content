@@ -70,6 +70,10 @@ which git
 /usr/local/bin/git --version
 ```
 
+```zsh
+/opt/homebrew/bin/git --version
+```
+
 ## GitHub
 
 - GitHubへSSHできるようにする
@@ -107,3 +111,4 @@ npm --version
 ```zsh
 node --version
 ```
+
