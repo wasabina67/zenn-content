@@ -37,7 +37,7 @@ brew list
 brew update
 ```
 
-### VSCode, Chrome
+### VSCode, Chrome, iterm2
 
 - `cask`の定義の中で、VSCodeの実行ファイルに対するシンボリックリンクが自動で作成される
 - そのため、`Command Palette`から`Shell Command: Install code in PATH`を実行しなくても、`code`コマンドが使用できる
@@ -48,6 +48,10 @@ brew install --cask visual-studio-code
 
 ```zsh
 brew install --cask google-chrome
+```
+
+```zsh
+brew install --cask iterm2
 ```
 
 ## Git
@@ -111,4 +115,3 @@ npm --version
 ```zsh
 node --version
 ```
-
