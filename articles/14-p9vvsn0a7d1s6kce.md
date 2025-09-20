@@ -90,6 +90,12 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
+## GitHub CLI
+
+```zsh
+brew install gh
+```
+
 ## nvm, npm, node
 
 ```zsh
@@ -115,3 +121,4 @@ npm --version
 ```zsh
 node --version
 ```
+
