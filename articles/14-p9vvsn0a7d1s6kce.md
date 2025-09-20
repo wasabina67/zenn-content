@@ -50,6 +50,10 @@ brew install --cask visual-studio-code
 brew install --cask google-chrome
 ```
 
+```zsh
+brew install --cask iterm2
+```
+
 ## Git
 
 - Homebrewからインストールしたgitを使う
