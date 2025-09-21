@@ -54,6 +54,10 @@ brew install --cask google-chrome
 brew install --cask iterm2
 ```
 
+### ohmyzsh
+
+https://github.com/ohmyzsh/ohmyzsh
+
 ## Git
 
 - Homebrewからインストールしたgitを使う
@@ -121,3 +125,4 @@ npm --version
 ```zsh
 node --version
 ```
+
