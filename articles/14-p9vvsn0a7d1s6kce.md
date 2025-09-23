@@ -126,3 +126,12 @@ npm --version
 node --version
 ```
 
+## uv
+
+```zsh
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+https://github.com/astral-sh/uv
+
+https://docs.astral.sh/uv/
