@@ -54,6 +54,10 @@ brew install --cask google-chrome
 brew install --cask iterm2
 ```
 
+### ohmyzsh
+
+https://github.com/ohmyzsh/ohmyzsh
+
 ## Git
 
 - Homebrewからインストールしたgitを使う
@@ -121,3 +125,13 @@ npm --version
 ```zsh
 node --version
 ```
+
+## uv
+
+```zsh
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+https://github.com/astral-sh/uv
+
+https://docs.astral.sh/uv/
