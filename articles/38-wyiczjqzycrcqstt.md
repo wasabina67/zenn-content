@@ -22,7 +22,7 @@ https://github.com/taketwo/llm-ollama?tab=readme-ov-file#installation
 ### OLLAMA_HOST
 
 ```bash
-export OLLAMA_HOST=http://192.168.xx.xx:11434
+export OLLAMA_HOST=http://<your-ollama-server-ip>:11434
 ```
 
 ## llm
