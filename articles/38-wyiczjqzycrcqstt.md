@@ -1,5 +1,5 @@
 ---
-title: "tmp"
+title: "uv + llm + ollama でローカルLLM環境を構築する"
 emoji: "🦙"
 type: "tech"
 topics: ["uv", "llm", "ollama"]
