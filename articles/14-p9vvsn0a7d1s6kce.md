@@ -37,7 +37,7 @@ brew list
 brew update
 ```
 
-### VSCode, Chrome, iterm2
+### VSCode, Chrome, iterm2, slack
 
 - `cask`の定義の中で、VSCodeの実行ファイルに対するシンボリックリンクが自動で作成される
 - そのため、`Command Palette`から`Shell Command: Install code in PATH`を実行しなくても、`code`コマンドが使用できる
@@ -52,6 +52,10 @@ brew install --cask google-chrome
 
 ```zsh
 brew install --cask iterm2
+```
+
+```zsh
+brew install --cask slack
 ```
 
 ### ohmyzsh
@@ -135,3 +139,4 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 https://github.com/astral-sh/uv
 
 https://docs.astral.sh/uv/
+
