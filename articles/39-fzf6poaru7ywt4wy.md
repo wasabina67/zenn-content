@@ -29,12 +29,23 @@ https://ja.react.dev/blog/2025/02/14/sunsetting-create-react-app
 主な理由は以下の通りです：
 
 ### 1. メンテナンスの困難さ
+- 複雑なビルドチェーンの抽象化により、内部の問題解決が困難
+- webpackやBabelのアップデートに追随するのが困難
+- セキュリティパッチの適用に時間がかかる状況
 
 ### 2. 現代的な開発ニーズとの乖離
+- Server-Side Rendering（SSR）やStatic Site Generation（SSG）への対応不足
+- モダンなJavaScript機能への対応の遅れ
+- TypeScriptサポートの限界
 
 ### 3. エコシステムの進化
+- より高性能で柔軟性の高い代替ツールの台頭
+- 開発者のニーズの多様化
+- ビルドツールの高速化技術の進歩
 
 ## 推奨される代替ツール
+
+Reactチームが推奨する代替ツールは以下の通りです：
 
 ### 1. Next.js
 
