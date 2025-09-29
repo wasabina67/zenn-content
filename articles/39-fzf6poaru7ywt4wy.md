@@ -49,23 +49,98 @@ Reactチームが推奨する代替ツールは以下の通りです：
 
 ### 1. Next.js
 
+```bash
+npx create-next-app@latest my-app
+```
+
 ### 2. Remix
 
+```bash
+npx create-remix@latest my-app
+```
+
 ### 3. Vite + React
+
+```bash
+npm create vite@latest my-app -- --template react
+```
+
+### 4. Gatsby
+
+```bash
+npm init gatsby
+```
 
 ## 既存プロジェクトの移行ガイド
 
 ### 1. Next.jsへの移行
 
+1. **新しいNext.jsプロジェクトの作成**
+
+```bash
+npx create-next-app@latest my-new-app
+```
+
+2. **ファイル構造の調整**
+
+- `src/pages/`ディレクトリにコンポーネントを移行
+- `public/`ディレクトリの静的ファイルをコピー
+
+3. **ルーティングの変更**
+
+- React Routerからファイルベースルーティングへ移行
+
 ### 2. Viteへの移行
+
+1. **依存関係の更新**
+```bash
+npm install vite @vitejs/plugin-react
+```
+
+2. **設定ファイルの作成**
+```javascript
+// vite.config.js
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+})
+```
+
+3. **package.jsonスクリプトの更新**
+```json
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
+```
 
 ## 注意点とベストプラクティス
 
 ### 移行時の注意点
 
+- **環境変数の命名規則変更**: Next.jsでは`NEXT_PUBLIC_`、Viteでは`VITE_`プレフィックスが必要
+- **絶対インポートの設定**: プロジェクトごとに設定方法が異なる
+- **ビルド出力の違い**: 各ツールで出力形式やディレクトリ構造が異なる
+
 ### 新規プロジェクトでの選択指針
 
+- **本格的なWebアプリケーション**: Next.js
+- **シンプルなSPA**: Vite + React
+- **静的サイト**: Gatsby
+- **Web標準重視**: Remix
+
 ## まとめ
+
+Create React Appの非推奨化は、Reactエコシステムの成熟と進化を示す重要な転換点です。
+より高性能で柔軟性の高い代替ツールが豊富に存在する現在、プロジェクトの要件に応じて最適なツールを選択することが重要です。
+
+既存のCRAプロジェクトは引き続き動作しますが、セキュリティアップデートやバグ修正は期待できないため、早期の移行を検討することを強く推奨します。
+移行は一見複雑に見えますが、各ツールが提供する豊富なドキュメントとコミュニティサポートを活用すれば、スムーズに進めることができるでしょう。
 
 ## 参考資料
 - [facebook/create-react-app](https://github.com/facebook/create-react-app?tab=readme-ov-file#deprecated)
