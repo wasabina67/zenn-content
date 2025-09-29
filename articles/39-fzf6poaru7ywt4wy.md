@@ -1,10 +1,10 @@
 ---
-title: ""
-emoji: ""
+title: "Create React App の非推奨化について"
+emoji: "🐙"
 type: "tech"
-topics: [""]
-published: false
-published_at: 2025-08-01
+topics: ["cra", "react"]
+published: true
+published_at: 2025-09-30
 ---
 
 zzzz
