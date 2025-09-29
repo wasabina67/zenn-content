@@ -143,5 +143,6 @@ Create React Appの非推奨化は、Reactエコシステムの成熟と進化�
 移行は一見複雑に見えますが、各ツールが提供する豊富なドキュメントとコミュニティサポートを活用すれば、スムーズに進めることができるでしょう。
 
 ## 参考資料
+- [Create React App の非推奨化 – React](https://ja.react.dev/blog/2025/02/14/sunsetting-create-react-app)
 - [facebook/create-react-app](https://github.com/facebook/create-react-app?tab=readme-ov-file#deprecated)
 - [Reactアプリ開発の環境構築ツール「Create React App」が非推奨に|CodeZine（コードジン）](https://codezine.jp/news/detail/21035)
