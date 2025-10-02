@@ -1,7 +1,7 @@
 ---
 title: "ZennのGitHub連携の記事投稿にて、type: techと指定しているのに、ideaになってしまう"
 emoji: "📝"
-type: "tech"
+type: "idea"
 topics: ["zenn"]
 published: true
 published_at: 2025-10-02
