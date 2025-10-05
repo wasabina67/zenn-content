@@ -140,3 +140,14 @@ https://github.com/astral-sh/uv
 
 https://docs.astral.sh/uv/
 
+## poppler
+
+```zsh
+brew install poppler
+```
+
+## hugo
+
+```zsh
+brew install hugo
+```
