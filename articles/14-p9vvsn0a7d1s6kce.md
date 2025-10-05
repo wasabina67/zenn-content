@@ -146,8 +146,11 @@ https://docs.astral.sh/uv/
 brew install poppler
 ```
 
+https://poppler.freedesktop.org/
+
 ## hugo
 
 ```zsh
 brew install hugo
 ```
+
