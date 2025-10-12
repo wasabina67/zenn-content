@@ -1,7 +1,7 @@
 ---
 title: "5つのPDF生成ライブラリ"
 emoji: "📝"
-type: "tech"
+type: "idea"
 topics: ["reports", "pdf"]
 published: true
 published_at: 2025-10-12
