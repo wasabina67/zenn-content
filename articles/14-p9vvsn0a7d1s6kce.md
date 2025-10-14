@@ -58,6 +58,10 @@ brew install --cask iterm2
 brew install --cask slack
 ```
 
+```zsh
+brew install --cask alt-tab
+```
+
 ### ohmyzsh
 
 https://github.com/ohmyzsh/ohmyzsh
@@ -155,3 +159,4 @@ brew install hugo
 ```
 
 https://gohugo.io/
+
