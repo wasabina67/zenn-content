@@ -160,3 +160,6 @@ brew install hugo
 
 https://gohugo.io/
 
+## Rust
+
+https://rust-lang.org/tools/install/
