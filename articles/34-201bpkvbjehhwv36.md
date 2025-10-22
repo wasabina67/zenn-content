@@ -19,6 +19,8 @@ https://developer.mescius.jp/reporting
 
 https://developer.mescius.jp/download/update
 
+https://developer.mescius.jp/support/maintenance-service
+
 ## リリース
 
 - [NuGet Gallery | Mescius](https://www.nuget.org/profiles/Mescius)
