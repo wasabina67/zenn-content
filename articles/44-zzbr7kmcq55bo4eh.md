@@ -45,3 +45,7 @@ published_at: 2025-10-22
   - 150dpi
 - Inch
   - 約16.5インチ 幅
+
+## dpi, ppi の違いについて
+- dpi, dots per inch
+- ppi, pixels per inch
