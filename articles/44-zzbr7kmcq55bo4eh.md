@@ -1,10 +1,10 @@
 ---
-title: "title"
-emoji: ""
+title: "Inch, Pixel, dpi について"
+emoji: "🖥️"
 type: "tech"
-topics: [""]
+topics: ["pixel", "dpi"]
 published: true
-published_at: 2025-10-12
+published_at: 2025-10-22
 ---
 
 zzzz
