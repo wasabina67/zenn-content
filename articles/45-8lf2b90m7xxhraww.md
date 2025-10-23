@@ -1,6 +1,6 @@
 ---
 title: "why github pages"
-emoji: ""
+emoji: "😺"
 type: "tech"
 topics: [""]
 published: true
