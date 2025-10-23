@@ -2,7 +2,7 @@
 title: "why github pages"
 emoji: "😺"
 type: "tech"
-topics: [""]
+topics: ["example"]
 published: true
 published_at: 2025-10-12
 ---
