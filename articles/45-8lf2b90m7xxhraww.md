@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "why github pages"
 emoji: ""
 type: "tech"
 topics: [""]
