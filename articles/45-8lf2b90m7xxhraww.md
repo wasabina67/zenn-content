@@ -7,4 +7,4 @@ published: true
 published_at: 2025-10-12
 ---
 
-zzzz
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
