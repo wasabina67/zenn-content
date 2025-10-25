@@ -40,7 +40,7 @@ published_at: 2025-10-25
 デジタルアドレス（7桁英数字）を指定すると、郵便番号や建物情報も含む住所全文が返されます。
 
 ```
-入力: デジタルアドレス（例：ABC-12D6）
+入力: デジタルアドレス（例：ABC12D6）
 出力: 東京都千代田区大手町... （郵便番号・建物情報含む）
 ```
 
@@ -136,5 +136,4 @@ published_at: 2025-10-25
 ## 参考リンク
 
 - [郵便番号・デジタルアドレスAPI 公式サイト](https://lp-api.da.pf.japanpost.jp/)
-- [日本郵便プレスリリース](https://www.post.japanpost.jp/notification/pressrelease/2025/00_honsha/0526_02_01.pdf)
 - [GitHub実装例](https://github.com/curioshiki/japanpost_digitaladdress_api)
