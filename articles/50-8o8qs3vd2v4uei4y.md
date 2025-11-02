@@ -1,6 +1,6 @@
 ---
 title: "uv, ruff, black でPython開発環境を整える"
-emoji: ""
+emoji: "🐍"
 type: "tech"
 topics: [""]
 published: false
