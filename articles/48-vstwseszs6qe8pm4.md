@@ -1,8 +1,8 @@
 ---
 title: "レキシカルスコープ、ダイナミックスコープについて"
-emoji: ""
-type: "tech"
-topics: [""]
+emoji: "🔍"
+type: "idea"
+topics: ["scope"]
 published: true
 published_at: 2025-11-02
 ---
