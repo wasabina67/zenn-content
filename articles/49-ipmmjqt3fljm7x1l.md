@@ -51,7 +51,7 @@ server.listen(3000, () => {
 
 ## その他
 
-- RFC 7168: HTCPCP/1.0 の更新版（2014年）
+- RFC 7168: HTCPCP をティー用に拡張した RFC（2014年4月1日）
 - ステータスコード 418 は Save 418 運動により、正式な HTTP ステータスコードとして保護されています
 
 https://www.rfc-editor.org/rfc/rfc7168
