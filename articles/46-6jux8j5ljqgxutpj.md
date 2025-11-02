@@ -1,5 +1,5 @@
 ---
-title: "【Claude Docs】プロンプトエンジニアリングの概要"
+title: "Claude prompting guide.md"
 emoji: "🤖"
 type: "idea"
 topics: ["claude"]
@@ -9,4 +9,4 @@ published_at: 2025-11-02
 
 ## はじめに
 
-https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview
+- Claudeのサンプルプロジェクトに追加されている、`Claude prompting guide.md`の主要なポイントをまとめた
