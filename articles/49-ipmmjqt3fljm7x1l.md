@@ -1,5 +1,5 @@
 ---
-title: "レキシカルスコープ、ダイナミックスコープについて"
+title: ""
 emoji: ""
 type: "tech"
 topics: [""]
