@@ -20,12 +20,32 @@ published_at: 2025-11-02
 現代のほとんどのプログラミング言語がレキシカルスコープを採用している理由は以下の通りです：
 
 ### 1. 予測可能性
+コードを読むだけで、どの変数が参照されるか判断できます。
 
 ### 2. デバッグのしやすさ
+変数の参照先が静的に決まるため、バグの原因を特定しやすくなります。
 
 ### 3. 最適化
+コンパイラやインタプリタが静的解析を行いやすく、パフォーマンスの最適化が可能です。
 
 ### 4. クロージャの実現
+レキシカルスコープがあることで、関数が定義時の環境を保持する「クロージャ」が自然に実現できます。
+
+```javascript
+function makeCounter() {
+  let count = 0;
+
+  return function() {
+    count++;
+    return count;
+  };
+}
+
+const counter = makeCounter();
+console.log(counter()); // 1
+console.log(counter()); // 2
+console.log(counter()); // 3
+```
 
 ## まとめ
 
