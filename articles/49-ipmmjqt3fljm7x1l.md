@@ -27,6 +27,8 @@ https://www.google.com/teapot
   - WHEN メソッド（いつコーヒーが淹れられるか）
   - 418 I'm a teapot ステータスコード
 
+https://www.rfc-editor.org/rfc/rfc2324
+
 ## 実装例
 
 ```javascript
@@ -49,6 +51,14 @@ server.listen(3000, () => {
 
 ## その他
 
+- RFC 7168: HTCPCP/1.0 の更新版（2014年）
+- ステータスコード 418 は Save 418 運動により、正式な HTTP ステータスコードとして保護されています
+
+https://www.rfc-editor.org/rfc/rfc7168
+
+https://save418.com/
+
 ## まとめ
 
-## 参考リンク
+- Error 418 は、インターネットとプログラミングコミュニティのユーモアの精神を象徴する良い例
+- Google のようなテック企業がこのようなジョークを実装し続けていることは、技術の楽しさを忘れないことの大切さを教えてくれる
