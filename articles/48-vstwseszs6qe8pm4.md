@@ -10,8 +10,68 @@ published_at: 2025-11-02
 ## はじめに
 
 ## レキシカルスコープ（Lexical Scope / Static Scope）
+- レキシカルスコープは、**変数のスコープがコードの記述位置（字句的な位置）によって決まる**仕組み
+- 関数が**定義された場所**によって、変数の参照先が決定される
+
+```javascript
+const x = 10;
+
+function outer() {
+  const x = 20;
+
+  function inner() {
+    console.log(x); // 20 が出力される
+  }
+
+  return inner;
+}
+
+const innerFunc = outer();
+innerFunc(); // 20
+```
+
+- `inner` 関数が `outer` 関数の中で**定義**されているため、`inner` 関数内の `x` は `outer` 関数のスコープにある `x = 20` を参照する
+
+```javascript
+const value = "グローバル";
+
+function showValue() {
+  console.log(value);
+}
+
+function execute() {
+  const value = "ローカル";
+  showValue(); // "グローバル" が出力される
+}
+
+execute();
+```
+
+- `showValue` 関数はグローバルスコープで定義されているため、`execute` 関数内で呼び出されても、グローバルスコープの `value` を参照する
 
 ## ダイナミックスコープ（Dynamic Scope）
+- ダイナミックスコープは、**変数のスコープが関数の呼び出し時点での実行コンテキストによって決まる**仕組み
+- 関数が**呼び出された場所**によって、変数の参照先が決定される
+
+```bash
+#!/bin/bash
+
+x=10
+
+function inner() {
+  echo $x
+}
+
+function outer() {
+  local x=20
+  inner  # 20 が出力される
+}
+
+outer
+```
+
+- `inner` 関数が `outer` 関数から**呼び出される**ため、`outer` 関数のスコープにある `x = 20` を参照する
+- 同じコードをレキシカルスコープで実行した場合、`inner` 関数はグローバルスコープの `x = 10` を参照する
 
 ## 比較
 
@@ -39,7 +99,7 @@ published_at: 2025-11-02
 - **パフォーマンス**
   - オーバーヘッドが大きい
 - **採用言語**
-  - Emacs Lisp、一部のシェル など
+  - Bash、Emacs Lisp、一部のシェル など
 
 ## なぜレキシカルスコープが主流なのか？
 
