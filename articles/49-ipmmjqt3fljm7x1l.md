@@ -19,8 +19,6 @@ https://www.google.com/teapot
 - HTTP ステータスコード 418 は、RFC 2324 で定義された「Hyper Text Coffee Pot Control Protocol (HTCPCP)」というエイプリルフールのジョーク RFC に由来しています
 - このステータスコードは、コーヒーポットにコーヒーを淹れるよう要求したが、実際にはティーポットだった場合に返されるという、完全にジョーク仕様です
 
-## Google のイースターエッグ
-
 ## RFC 2324 - HTCPCP/1.0
 
 - このプロトコルは 1998 年 4 月 1 日（エイプリルフール）に発行された RFC 2324 で定義されています
@@ -30,6 +28,24 @@ https://www.google.com/teapot
   - 418 I'm a teapot ステータスコード
 
 ## 実装例
+
+```javascript
+const http = require('http');
+
+const server = http.createServer((req, res) => {
+  if (req.url === '/teapot') {
+    res.writeHead(418, { 'Content-Type': 'text/plain' });
+    res.end("I'm a teapot");
+  } else {
+    res.writeHead(200, { 'Content-Type': 'text/plain' });
+    res.end('Hello World');
+  }
+});
+
+server.listen(3000, () => {
+  console.log('Server running at http://localhost:3000/');
+});
+```
 
 ## その他
 
