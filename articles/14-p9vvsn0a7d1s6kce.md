@@ -164,8 +164,12 @@ https://gohugo.io/
 
 https://rust-lang.org/tools/install/
 
-## cmake
+## cmake, ffmpeg
 
 ```zsh
 brew install cmake
+```
+
+```zsh
+brew install ffmpeg
 ```
