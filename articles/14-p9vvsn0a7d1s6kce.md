@@ -163,3 +163,9 @@ https://gohugo.io/
 ## Rust
 
 https://rust-lang.org/tools/install/
+
+## cmake
+
+```zsh
+brew install cmake
+```
