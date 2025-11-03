@@ -62,6 +62,10 @@ brew install --cask slack
 brew install --cask alt-tab
 ```
 
+```zsh
+brew install --cask elmedia-player
+```
+
 ### ohmyzsh
 
 https://github.com/ohmyzsh/ohmyzsh
@@ -173,3 +177,4 @@ brew install cmake
 ```zsh
 brew install ffmpeg
 ```
+
