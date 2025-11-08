@@ -1,10 +1,10 @@
 ---
 title: "JavaScriptのPrototype Pollution（プロトタイプ汚染）について"
 emoji: ""
-type: "tech"
-topics: [""]
-published: false
-published_at: 2025-10-12
+type: "idea"
+topics: ["prototype"]
+published: true
+published_at: 2025-11-08
 ---
 
 ## プロトタイプ汚染とは
