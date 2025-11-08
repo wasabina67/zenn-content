@@ -1,6 +1,6 @@
 ---
 title: "JavaScriptのPrototype Pollution（プロトタイプ汚染）について"
-emoji: ""
+emoji: "🔗"
 type: "idea"
 topics: ["prototype"]
 published: true
