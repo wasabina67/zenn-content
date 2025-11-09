@@ -13,6 +13,31 @@ published_at: 2025-11-09
 攻撃者は、プロトタイプオブジェクトを改ざんすることにより、アプリケーションのあらゆるオブジェクトを改変させることができます。
 結果として、アプリケーションに予期せぬ動作や悪意ある動作を発生させます。
 
+## プロトタイプ汚染の具体例
+
+### 基本的な例
+
+```javascript
+// 通常のオブジェクト
+const user = { name: 'Alice' };
+console.log(user.isAdmin); // undefined
+
+// プロトタイプ汚染
+const maliciousPayload = JSON.parse('{"__proto__": {"isAdmin": true}}');
+Object.assign({}, maliciousPayload);
+
+// 新しいオブジェクトが影響を受ける
+const newUser = { name: 'Bob' };
+console.log(newUser.isAdmin); // true
+```
+
+### 実際の攻撃シナリオ
+
+### CVE-2025-57352 (min-document) の例
+
+
+
+
 ## 参考資料
 
 - [Raynos/min-document: A minimal DOM implementation](https://github.com/Raynos/min-document)
