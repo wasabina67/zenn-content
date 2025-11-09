@@ -32,6 +32,7 @@ console.log(newUser.isAdmin); // true
 ## 実際の攻撃シナリオ
 
 ```javascript
+// ⚠️ 脆弱なコード例 - セキュリティ対策なし (Vulnerable code example - No security measures)
 function merge(target, source) {
   for (let key in source) {
     if (typeof source[key] === 'object') {
