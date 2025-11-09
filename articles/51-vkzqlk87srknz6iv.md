@@ -1,8 +1,8 @@
 ---
 title: "プログラマーの三大美徳について"
-emoji: ""
+emoji: "💎"
 type: "idea"
-topics: [""]
+topics: ["programmer", "engineering"]
 published: true
 published_at: 2025-11-09
 ---
