@@ -68,6 +68,33 @@ console.log(anotherUser.isAdmin); // true
 console.log(anotherUser.role); // "admin"
 ```
 
+### CVE-2025-57352 の概要
+
+**CVE-2025-57352** は、min-document パッケージに存在するプロトタイプ汚染の脆弱性です。
+
+#### 脆弱性の詳細
+
+min-document の `removeAttributeNS` メソッドに不適切なネームスペース操作の処理があり、攻撃者が `__proto__` プロパティを含む悪意のある入力を処理させることで、JavaScriptオブジェクトのプロトタイプチェーンを操作できます。
+
+#### 影響を受けるバージョン
+
+- min-document 2.19.0 より前のすべてのバージョン
+
+#### 脆弱性の種類
+
+- CWE-1321：プロトタイプ・ポリューション（オブジェクトプロトタイプ属性の不正制御修正）
+
+#### 深刻度
+
+- CVSS v3.1 ベーススコア：**5.3（中程度）**
+- ベクトル：`AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N`
+
+#### 潜在的な影響
+
+サービス拒否（DoS）または任意コード実行につながる可能性があります。
+
+https://nvd.nist.gov/vuln/detail/CVE-2025-57352
+
 ### CVE-2025-57352 (min-document) の例
 
 ```javascript
@@ -93,6 +120,5 @@ https://github.com/OrangeShieldInfos/PoCs/blob/main/JavaScript/prototype-polluti
 - [Raynos/min-document: A minimal DOM implementation](https://github.com/Raynos/min-document)
 - [Prototype Pollution in min-document · Issue #54 · Raynos/min-document](https://github.com/Raynos/min-document/issues/54)
 - [Fix prototype pollution in removeAttributeNS by jameswassink · Pull Request #55 · Raynos/min-document](https://github.com/Raynos/min-document/pull/55)
-- [NVD - CVE-2025-57352](https://nvd.nist.gov/vuln/detail/CVE-2025-57352)
 - [[GHSA-rx8g-88g5-qh64] min-document vulnerable to prototype pollution by G-Rath · Pull Request #6392 · github/advisory-database](https://github.com/github/advisory-database/pull/6392)
 - [min-document vulnerable to prototype pollution | GitLab Advisory Database](https://advisories.gitlab.com/pkg/npm/min-document/CVE-2025-57352/)
