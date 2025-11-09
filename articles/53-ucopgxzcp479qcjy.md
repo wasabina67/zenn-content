@@ -15,13 +15,28 @@ published_at: 2025-11-09
 
 ## CVSS (Common Vulnerability Scoring System)
 
-## tmp
+## 脆弱性データベース
 
 ### NVD (National Vulnerability Database)
 
+米国国立標準技術研究所（NIST）が運営する脆弱性データベース
+
+- **URL**: https://nvd.nist.gov/
+- **特徴**: CVE、CWE、CVSSを統合して提供
+
 ### JVN (Japan Vulnerability Notes)
 
+日本の脆弱性対策情報ポータル
+
+- **URL**: https://jvn.jp/
+- **特徴**: 日本語で情報提供、日本製品の脆弱性情報も充実
+
 ### GitHub Advisory Database
+
+GitHubが提供する脆弱性データベース
+
+- **URL**: https://github.com/advisories
+- **特徴**: オープンソースパッケージの脆弱性情報に特化
 
 ## まとめ
 
