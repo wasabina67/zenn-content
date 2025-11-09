@@ -3,13 +3,9 @@ title: "郵便番号・デジタルアドレスAPIについて"
 emoji: "📮"
 type: "idea"
 topics: ["address", "jp"]
-published: false
-published_at: 2025-10-27
+published: true
+published_at: 2025-11-09
 ---
-
-## はじめに
-
-wip
 
 ## 郵便番号・デジタルアドレスAPIとは
 
