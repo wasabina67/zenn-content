@@ -95,6 +95,8 @@ https://nvd.nist.gov/vuln/detail/CVE-2025-57352
 
 ## CVE-2025-57352 (min-document) の例
 
+https://github.com/OrangeShieldInfos/PoCs/blob/main/JavaScript/prototype-pollution/CVE-2025-57352/index.js
+
 ```javascript
 const clazz = require("min-document/dom-element");
 let instance = new clazz();
@@ -110,8 +112,6 @@ $ node poc.js
 [toString]
 [DELETE_TRIGGERED]
 ```
-
-https://github.com/OrangeShieldInfos/PoCs/blob/main/JavaScript/prototype-pollution/CVE-2025-57352/index.js
 
 ## 参考資料
 
