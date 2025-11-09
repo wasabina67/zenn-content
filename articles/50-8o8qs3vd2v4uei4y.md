@@ -4,7 +4,7 @@ emoji: "🐍"
 type: "tech"
 topics: ["uv", "ruff", "black"]
 published: true
-published_at: 2025-11-02
+published_at: 2025-11-09
 ---
 
 zzzz
