@@ -11,13 +11,58 @@ published_at: 2025-11-09
 
 ## CVE (Common Vulnerabilities and Exposures)
 
+**共通脆弱性識別子** - 個別の脆弱性に付けられる**一意の識別番号**です。
+
 ### 基本情報
+
+- **形式**: `CVE-年-番号`
+- **目的**: 世界中で同じ脆弱性について話すときに、共通の名前を使えるようにする
+- **管理**: MITRE Corporation
+- **公式サイト**: https://cve.mitre.org/
+
+### 具体例
+
+- CVE-2025-57352  → min-documentのプロトタイプ汚染
+- CVE-2021-44228  → Log4Shell（Log4jの脆弱性）
+- CVE-2014-0160   → Heartbleed（OpenSSLの脆弱性）
+
+### CVE番号の見方
+
+- CVE-2025-57352
+  - CVE: CVEの識別子
+  - 2025: 発見・公開された年
+  - 連番（その年に登録された脆弱性の番号）
 
 ## CWE (Common Weakness Enumeration)
 
+**共通脆弱性タイプ一覧** - ソフトウェアやハードウェアの脆弱性の**種類**を分類したものです。
+
 ### 基本情報
 
+- **形式**: `CWE-番号`
+- **目的**: 脆弱性のパターンや原因を分類・体系化する
+- **管理**: MITRE Corporation
+- **公式サイト**: https://cwe.mitre.org/
+
+### よくあるCWE
+
+- CWE-79   → XSS
+- CWE-89   → SQLインジェクション
+- CWE-787  → バッファオーバーフロー
+- CWE-1321 → プロトタイプ汚染
+- CWE-20   → 不適切な入力検証
+- CWE-200  → 情報漏洩
+- CWE-276  → 不適切なパーミッション設定
+
+### CWE Top 25
+
+MITRE が毎年発表する「最も危険なソフトウェアの弱点トップ25」があり、開発者が特に注意すべき脆弱性タイプがまとめられています。
+
+https://cwe.mitre.org/top25/
+
 ## CVSS (Common Vulnerability Scoring System)
+
+**共通脆弱性評価システム** - 脆弱性の深刻度を数値化して評価する仕組みです。
 
 ### 基本情報
 
