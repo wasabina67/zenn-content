@@ -33,10 +33,13 @@ console.log(newUser.isAdmin); // true
 
 ### 実際の攻撃シナリオ
 
+```javascript
+```
+
 ### CVE-2025-57352 (min-document) の例
 
-
-
+```javascript
+```
 
 ## 参考資料
 
