@@ -66,6 +66,35 @@ https://cwe.mitre.org/top25/
 
 ### 基本情報
 
+- **スコア範囲**: 0.0 〜 10.0
+- **管理**: FIRST (Forum of Incident Response and Security Teams)
+- **公式サイト**: https://www.first.org/cvss/
+
+### 深刻度レベル
+
+| スコア | レベル | 英語表記 | 対応の緊急度 |
+|--------|--------|----------|--------------|
+| 0.0 | なし | None | - |
+| 0.1-3.9 | 低 | Low | 通常の対応 |
+| 4.0-6.9 | 中 | Medium | 早めに対応 |
+| 7.0-8.9 | 高 | High | 優先的に対応 |
+| 9.0-10.0 | 緊急 | Critical | 即座に対応 |
+
+### CVSSベクトル
+
+WIP
+
+### 具体例の解析
+
+WIP
+
+### CVSSスコアの計算
+
+手動計算は複雑なため、通常は公式の計算ツールを使用します。
+
+- **FIRST CVSS Calculator**: https://www.first.org/cvss/calculator/3.1
+- **NVD CVSS Calculator**: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
+
 ## 3つの関係性
 
 実際の脆弱性情報では、これら3つが組み合わせて使われます。
