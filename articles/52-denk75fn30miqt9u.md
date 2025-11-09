@@ -4,7 +4,7 @@ emoji: "🔗"
 type: "idea"
 topics: ["prototype"]
 published: true
-published_at: 2025-11-08
+published_at: 2025-11-09
 ---
 
 ## プロトタイプ汚染とは
