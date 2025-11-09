@@ -1,10 +1,10 @@
 ---
-title: "uv, ruff, black でPython開発環境を整える"
+title: "uv, Ruff でPython開発環境を整える"
 emoji: "🐍"
 type: "tech"
-topics: [""]
+topics: ["uv", "ruff"]
 published: false
-published_at: 2025-11-02
+published_at: 2025-11-09
 ---
 
 zzzz
