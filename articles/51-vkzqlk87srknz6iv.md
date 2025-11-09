@@ -1,5 +1,5 @@
 ---
-title: "プログラマーの三大美徳について"
+title: "プログラマーの三大美徳とHRTについて"
 emoji: "💎"
 type: "idea"
 topics: ["programmer", "engineering"]
@@ -27,7 +27,7 @@ Perl言語の開発者ラリー・ウォールが提唱した、優れたプロ�
 - 自分の書くコードが他者からの批判を受けないほど優れているべきとする自信
 - コードの品質向上と保守性を高める原動力
 
-## HRT (Humility, Respect, Trust)
+## HRT
 
 Googleのエンジニアリング文化で重視される3つの価値観です。
 
