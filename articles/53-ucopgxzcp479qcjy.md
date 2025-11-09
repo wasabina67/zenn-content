@@ -127,7 +127,8 @@ CVSSスコアは以下の8つの評価項目から計算されます。
 
 手動計算は複雑なため、通常は公式の計算ツールを使用します。
 
-- **FIRST CVSS Calculator**: https://www.first.org/cvss/calculator/3.1
+- **FIRST CVSS v3.1 Calculator**: https://www.first.org/cvss/calculator/3.1
+- **FIRST CVSS v4.0 Calculator**: https://www.first.org/cvss/calculator/4.0
 - **NVD CVSS Calculator**: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 
 ## 3つの関係性
