@@ -13,9 +13,7 @@ published_at: 2025-11-09
 攻撃者は、プロトタイプオブジェクトを改ざんすることにより、アプリケーションのあらゆるオブジェクトを改変させることができます。
 結果として、アプリケーションに予期せぬ動作や悪意ある動作を発生させます。
 
-## プロトタイプ汚染の具体例
-
-### 基本的な例
+## 基本的な例
 
 ```javascript
 // 通常のオブジェクト
@@ -31,7 +29,7 @@ const newUser = { name: 'Bob' };
 console.log(newUser.isAdmin); // true
 ```
 
-### 実際の攻撃シナリオ
+## 実際の攻撃シナリオ
 
 ```javascript
 function merge(target, source) {
@@ -68,34 +66,34 @@ console.log(anotherUser.isAdmin); // true
 console.log(anotherUser.role); // "admin"
 ```
 
-### CVE-2025-57352 の概要
+## CVE-2025-57352 の概要
 
 **CVE-2025-57352** は、min-document パッケージに存在するプロトタイプ汚染の脆弱性です。
 
-#### 脆弱性の詳細
+### 脆弱性の詳細
 
 min-document の `removeAttributeNS` メソッドに不適切なネームスペース操作の処理があり、攻撃者が `__proto__` プロパティを含む悪意のある入力を処理させることで、JavaScriptオブジェクトのプロトタイプチェーンを操作できます。
 
-#### 影響を受けるバージョン
+### 影響を受けるバージョン
 
 - min-document 2.19.0 より前のすべてのバージョン
 
-#### 脆弱性の種類
+### 脆弱性の種類
 
 - CWE-1321：プロトタイプ・ポリューション（オブジェクトプロトタイプ属性の不正制御修正）
 
-#### 深刻度
+### 深刻度
 
 - CVSS v3.1 ベーススコア：**5.3（中程度）**
 - ベクトル：`AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N`
 
-#### 潜在的な影響
+### 潜在的な影響
 
 サービス拒否（DoS）または任意コード実行につながる可能性があります。
 
 https://nvd.nist.gov/vuln/detail/CVE-2025-57352
 
-### CVE-2025-57352 (min-document) の例
+## CVE-2025-57352 (min-document) の例
 
 ```javascript
 const clazz = require("min-document/dom-element");
