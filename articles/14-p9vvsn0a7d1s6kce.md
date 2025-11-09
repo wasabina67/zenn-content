@@ -62,6 +62,10 @@ brew install --cask slack
 brew install --cask alt-tab
 ```
 
+```zsh
+brew install --cask elmedia-player
+```
+
 ### ohmyzsh
 
 https://github.com/ohmyzsh/ohmyzsh
@@ -163,3 +167,14 @@ https://gohugo.io/
 ## Rust
 
 https://rust-lang.org/tools/install/
+
+## cmake, ffmpeg
+
+```zsh
+brew install cmake
+```
+
+```zsh
+brew install ffmpeg
+```
+
