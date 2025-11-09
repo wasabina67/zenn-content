@@ -2,7 +2,7 @@
 title: "JavaScriptのPrototype Pollution（プロトタイプ汚染）について"
 emoji: "🔗"
 type: "idea"
-topics: ["prototype"]
+topics: ["prototype", "javascript"]
 published: true
 published_at: 2025-11-09
 ---
