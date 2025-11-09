@@ -11,9 +11,32 @@ published_at: 2025-11-09
 
 ## CVE (Common Vulnerabilities and Exposures)
 
+### 基本情報
+
 ## CWE (Common Weakness Enumeration)
 
+### 基本情報
+
 ## CVSS (Common Vulnerability Scoring System)
+
+### 基本情報
+
+## 3つの関係性
+
+実際の脆弱性情報では、これら3つが組み合わせて使われます。
+
+### CVE-2025-57352 の場合
+
+```
+【識別】CVE-2025-57352
+  └─ この脆弱性を一意に識別する番号
+
+【分類】CWE-1321（プロトタイプ汚染）
+  └─ この脆弱性がどんな種類の問題なのか
+
+【評価】CVSS 5.3（中程度）
+  └─ この脆弱性がどれくらい危険なのか
+```
 
 ## 脆弱性データベース
 
