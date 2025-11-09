@@ -93,6 +93,10 @@ min-document の `removeAttributeNS` メソッドに不適切なネームスペ�
 
 https://nvd.nist.gov/vuln/detail/CVE-2025-57352
 
+https://github.com/github/advisory-database/pull/6392
+
+https://advisories.gitlab.com/pkg/npm/min-document/CVE-2025-57352/
+
 ## CVE-2025-57352 (min-document) の例
 
 https://github.com/OrangeShieldInfos/PoCs/blob/main/JavaScript/prototype-pollution/CVE-2025-57352/index.js
@@ -118,5 +122,3 @@ $ node poc.js
 - [Raynos/min-document: A minimal DOM implementation](https://github.com/Raynos/min-document)
 - [Prototype Pollution in min-document · Issue #54 · Raynos/min-document](https://github.com/Raynos/min-document/issues/54)
 - [Fix prototype pollution in removeAttributeNS by jameswassink · Pull Request #55 · Raynos/min-document](https://github.com/Raynos/min-document/pull/55)
-- [[GHSA-rx8g-88g5-qh64] min-document vulnerable to prototype pollution by G-Rath · Pull Request #6392 · github/advisory-database](https://github.com/github/advisory-database/pull/6392)
-- [min-document vulnerable to prototype pollution | GitLab Advisory Database](https://advisories.gitlab.com/pkg/npm/min-document/CVE-2025-57352/)
