@@ -1,6 +1,6 @@
 ---
 title: "Unix philosophy"
-emoji: ""
+emoji: "🐧"
 type: "idea"
 topics: ["unix"]
 published: true
