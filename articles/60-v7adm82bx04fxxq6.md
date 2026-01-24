@@ -14,5 +14,5 @@ published_at: 2026-01-24
 | master | 本番環境にデプロイされるコード | - | - |
 | develop | 開発中の最新コード | master | master |
 | release | リリース準備用 | develop | master, develop |
-| feature-* | 新機能の開発用 | develop | develop |
-| hotfix-* | 緊急のバグ修正用 | master | master, develop |
+| feature/* | 新機能の開発用 | develop | develop |
+| hotfix/* | 緊急のバグ修正用 | master | master, develop |
