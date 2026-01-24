@@ -2,7 +2,7 @@
 title: "命名規則について"
 emoji: "📝"
 type: "tech"
-topics: ["camelcase", "snamecase", "kebabcase"]
+topics: ["camelcase", "snakecase", "kebabcase"]
 published: true
 published_at: 2026-01-24
 ---
