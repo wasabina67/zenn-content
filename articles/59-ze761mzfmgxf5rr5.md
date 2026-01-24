@@ -1,6 +1,6 @@
 ---
 title: "命名規則について"
-emoji: ""
+emoji: "📝"
 type: "tech"
 topics: ["camelcase", "snamecase", "kebabcase"]
 published: true
