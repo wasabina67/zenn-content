@@ -21,7 +21,7 @@ POST /users
 - [POST リクエストメソッド - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Reference/Methods/POST)
 
 ## PUT
-- リソース全体を置き換える
+- リソース全体を置き換える（リソースが存在しない場合は新規作成）
 - 同じリクエストを何度送っても結果が同じ（**冪等**）
 - リクエストボディにリソース全体のデータを含める
 - 例: ユーザー情報の全項目を更新
