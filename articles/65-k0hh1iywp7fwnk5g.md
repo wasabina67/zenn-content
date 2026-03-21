@@ -1,5 +1,5 @@
 ---
-title: "POST・PUT・PATCHの違いについて"
+title: "POST・PUT・PATCHの使い分けについて"
 emoji: "🔍"
 type: "tech"
 topics: ["http"]
@@ -7,4 +7,8 @@ published: true
 published_at: 2026-03-21
 ---
 
-zzzz
+## POST
+
+## PUT
+
+## PATCH
