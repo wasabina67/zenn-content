@@ -13,6 +13,10 @@ published_at: 2026-03-21
 - リクエストボディにリソース全体のデータを含める
 - 例: ユーザーの新規登録
 
+```
+POST /users
+{ "name": "Taro", "email": "taro@example.com" }
+```
 
 - [POST リクエストメソッド - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Reference/Methods/POST)
 
@@ -22,13 +26,22 @@ published_at: 2026-03-21
 - リクエストボディにリソース全体のデータを含める
 - 例: ユーザー情報の全項目を更新
 
+```
+PUT /users/1
+{ "name": "Taro Tanaka", "email": "ttanaka@example.com" }
+```
 
 - [PUT リクエストメソッド - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Reference/Methods/PUT)
 
 ## PATCH
 - リソースの一部を更新する
+- 冪等性は実装に依存する
 - 変更したいフィールドだけをリクエストボディに含める
 - 例: ユーザーのメールアドレスだけを更新
 
+```
+PATCH /users/1
+{ "email": "t-tanaka@example.com" }
+```
 
 - [PATCH リクエストメソッド - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Reference/Methods/PATCH)
