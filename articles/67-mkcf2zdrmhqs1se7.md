@@ -1,7 +1,7 @@
 ---
 title: "ripgrep (rg)について"
 emoji: "🔍"
-type: "tech"
+type: "idea"
 topics: ["ripgrep", "rg"]
 published: true
 published_at: 2026-05-02
